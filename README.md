@@ -1,3 +1,5 @@
 # pub607-26
 
-Yes.
+You are here.
+
+Maybe start with the outline.

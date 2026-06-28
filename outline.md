@@ -40,7 +40,7 @@ PUB 607 features four lectures and four demos, and the rest of the time will be 
 You'll work collaboratively? Individually? ...to produce both an accessible EPUB ebook and at least part of an audiobook. The following are the critical milestones, and their dates due. There's more detail available on the [Assignments](Assignments.md) page.
 
 
-by **Jul 6** – Go to Github and clone the course repository; read anm article; Install a text editor, and make a commitment.
+by **Jul 6** – Go to Github and clone the course repository using **GitHub Desktop**; read an article; install **Sublime Text**.
 
 by **Jul 8**  'Acquire a manuscript' to build your ebook and audiobook from.
 
