@@ -8,7 +8,7 @@ Where to begin? Let's start by asking it to Print the Working Directory, to tell
 
 It should respond with a **path** -- that is, a sequence of nested folder names, separated by slashes. The folders start at the very top level of your drive, and then drilling down to where you are currently. If you've just opened up the shell, you are probably in your 'home directory.' 
 
-Note that rather than looking *upon* a folder in a window on your screen, when you're using the shell you are *in* a folder (or in a 'directory' to use the older terminology). There's a spatial metaphor in the shell: you move yourself around within the filesystem, rather than looking on it from outside.
+Note the difference in perspective: rather than looking *upon* a folder in a window on your screen, when you're using the shell you are *in* a folder (or in a 'directory' to use the older terminology). There's a spatial metaphor in the shell: you move yourself around inside the filesystem, rather than looking down on it from outside.
 
 We can move into another folder (Change Directory) like so:
 
@@ -47,7 +47,7 @@ Pick a folder, (I'll use my 'Downloads' folder as an example, which is at hand i
 
 If you're like me (and your laptop isn't brand new) this produces a very, very long list. It flies by so fast you can't even see it, except the last screenful. 
 
-We can ask the shell to slow down, and give us the list one screenful at a time, and even to wait for us to tell it to move on to the next screen's worth. We're going to use the Unix **pipe** construct here -- a very powerful tool -- which we refer to with the **|** symbol (shift-slash, on English-speaking keyboards):
+We can ask the shell to slow down, and show us only one screen-full of the list at a time, and to wait for us to tell it to move on to the next screen's worth. We're going to use the Unix **pipe** construct here -- a very powerful tool -- which we refer to with the **|** symbol (shift-slash, on English-speaking keyboards):
 
     ls -l Downloads | more
 
@@ -106,4 +106,4 @@ When you're working in the shell, try to remember these three things:
 
 2) If you are typing a command, or (and *especially*) a filename, and you have typed the first few letters, you can hit *TAB*, and the shell will do its best to **complete the rest of it automatically**. That saves keystrokes, and more importantly it saves typos.
 
-3) If you type just `cd` all by itself, it will change directory back to your **home directory** (aka ~). 
+3) If you type just `cd` all by itself, it will change directory back to your **home directory**. 
