@@ -105,8 +105,8 @@ The `.*` pattern is really common -- when you see it, you can think of it as mea
 
 ## 4. Alternation (either\|or)
 
-  a|b|c
-  
+	a|b|c
+
 	this|that
 
 ## 5. Parentheses group sub-patterns
