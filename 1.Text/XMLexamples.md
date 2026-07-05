@@ -158,8 +158,6 @@ The original markup language standards SGML, HTML, and early XML) were designed 
 
 ### MathML:
 
-[Click to see live](math.md)
-
 ```xml
   <math xmlns="http://www.w3.org/1998/Math/MathML">
     <mi>a</mi>
