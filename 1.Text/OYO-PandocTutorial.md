@@ -167,7 +167,7 @@ Pandoc has a number of paths to PDF... beginning with LaTeX, a venerable compute
 
 Pandoc also has an ICML output, which is the 'story' format for Adobe InDesign. 'Place' the resulting .icml file directly in a blank InDesign template.
 
-In PUB607, we'll use a newer typesetting tool called Typst. You need to have Typst installed on your computer, and to get past the default formatting, we'd also have to develop a Typst stylesheet, which is different from CSS. More on that later.  
+Pandoc also will output to a newer typesetting tool called Typst. You need to have Typst installed on your computer, and we'd also have to develop a Typst stylesheet, which is different from CSS. More on that later.  
 
 For reference, though, the Pandoc command will look something like this:
 
