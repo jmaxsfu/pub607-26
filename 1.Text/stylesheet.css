@@ -1,32 +1,27 @@
 
 body {
-    background-color: #fffffd;
-    font-family: Garamond, Times;
-    font-size: 10pt;
-    line-height: 14pt;
+    background-color: yellow;
+    width: 36em;
+    margin: 1em;
+    font-family: Helvetica, Arial;
+    font-size: 16pt;
+    line-height: 75%;
     color: purple;
-    width: 56em;
-    margin: 5em;
 }
-
 
 h1 {
-    font-family: Gill Sans, Arial;
-    font-size: 18px;
+    font-family: Times;
+    font-size: 48px;
+    color: blue;
 }
 
-sidebar > h1 {
-  font-size: 12pt;
-}
-
-p {  /* First paragraph */
+p {  /* First paragraphs, not indented */
     margin-top: 1em; margin-bottom: 0;
     text-indent: 0;
     hyphens: auto;
 }
 
-p + p { /* Paragraphs that follow paragraphs */
+p + p { /* Paragraphs that follow paragraphs are indented */
     margin-top: 0;
-    text-indent: 1.3em;
-    line-height: 1.3em;
+    text-indent: 2.3em;
 }
