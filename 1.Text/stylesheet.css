@@ -1,18 +1,22 @@
 
 body {
-    background-color: yellow;
-    font-family: Georgia;
-    font-size: 14pt;
+    background-color: #fffffd;
+    font-family: Garamond, Times;
+    font-size: 10pt;
+    line-height: 14pt;
     color: purple;
-    width: 36em;
+    width: 56em;
     margin: 5em;
 }
 
 
 h1 {
-    font-family: Helvetica, Arial;
-    font-size: 48px;
-    color: blue;
+    font-family: Gill Sans, Arial;
+    font-size: 18px;
+}
+
+sidebar > h1 {
+  font-size: 12pt;
 }
 
 p {  /* First paragraph */
