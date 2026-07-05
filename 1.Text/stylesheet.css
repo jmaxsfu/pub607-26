@@ -1,0 +1,28 @@
+
+body {
+    background-color: yellow;
+    font-family: Georgia;
+    font-size: 14pt;
+    color: purple;
+    width: 36em;
+    margin: 5em;
+}
+
+
+h1 {
+    font-family: Helvetica, Arial;
+    font-size: 48px;
+    color: blue;
+}
+
+p {  /* First paragraph */
+    margin-top: 1em; margin-bottom: 0;
+    text-indent: 0;
+    hyphens: auto;
+}
+
+p + p { /* Paragraphs that follow paragraphs */
+    margin-top: 0;
+    text-indent: 1.3em;
+    line-height: 1.3em;
+}
