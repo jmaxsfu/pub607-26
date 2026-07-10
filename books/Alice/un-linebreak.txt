@@ -1,0 +1,9 @@
+un-linebreak
+
+search: (\S)\n
+replace: \1_
+
+But you have to do it bit by bit, because there are probably sections in which you want to keep the linebreaks!
+
+
+(\S)\n([^ ]) is better, but if any poetry is flush-left, it will unbreak thost lines.
