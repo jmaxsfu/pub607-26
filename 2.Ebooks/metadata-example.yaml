@@ -1,0 +1,42 @@
+---
+title:
+- type: main
+  text: The Memoirs of the Conquistador Bernal Diaz del Castillo, Vol 1
+- type: subtitle
+  text: Written by Himself Containing a True and Full Account of the Discovery and Conquest of Mexico and New Spain.
+creator:
+- role: author
+  text: Bernal Diaz del Castillo
+contributor:
+- role: translator
+  text: John Ingram Lockhart
+- role: editor
+  text: Julia Miller
+- role: editor
+  text: Jane Hyland
+- role: editor
+  text: Online Distributed Proofreading Team at http://www.pgdp.net
+identifier:
+- scheme: Project Gutenberg
+  text: EBook#32474
+lang: en-US
+accessMode: 
+	- textual
+	- visual
+accessModeSufficient: 
+	- textual	
+accessibilityFeatures: 
+	- alternativeText
+	- tableOfContents
+	- displayTransformability
+accessibilityHazard: none	
+accessibilitySummary: Alt text, table of contents, semantic markup. 	
+dcterms:conformsTo: EPUB Accessibility 1.1 - WCAG 2.2 Level AA
+publisher:  Project Gutenberg 
+date:  May 21, 2010 
+rights:  Project Gutenberg License; see http://www.gutenberg.net 
+cover-image: cover.png
+css: simpleEbook.css
+toc: true
+---
+
