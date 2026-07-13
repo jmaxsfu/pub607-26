@@ -31,7 +31,7 @@ accessibilityFeatures:
 	- displayTransformability
 accessibilityHazard: none	
 accessibilitySummary: Alt text, table of contents, semantic markup. 	
-dcterms:conformsTo: EPUB Accessibility 1.1 - WCAG 2.2 Level AA
+conformsTo: EPUB Accessibility 1.1 - WCAG 2.2 Level AA
 publisher:  Project Gutenberg 
 date:  May 21, 2010 
 rights:  Project Gutenberg License; see http://www.gutenberg.net 
