@@ -1,0 +1,8 @@
+body {
+}
+
+
+div.poems {
+		columns: 2;
+		line-height: 18pt;
+}
