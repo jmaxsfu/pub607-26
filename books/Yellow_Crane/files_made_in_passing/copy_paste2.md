@@ -1,16 +1,22 @@
-我见过黄鹤 2024.9.10去边纹设计.indd 1 我见过黄鹤 2024.9.10去边纹设计.indd 1 2024/9/11 8:41:02 2024/9/11 8:41:02
+
+•00
+
 First Edition 2024
-ISBN 978-7-119-14025-4
-© Foreign Languages Press Co. Ltd, Beijing, China, 2024
-Published by Foreign Languages Press Co. Ltd
-24 Baiwanzhuang Road, Beijing 100037, China
-Distributed by China International Book Trading Corporation
-35 Chegongzhuang Xilu, Beijing 100044, China
-P.O. Box 399, Beijing, China
-Printed in the People’s Republic of China
-我见过黄鹤 2024.9.10去边纹设计.indd 2 我见过黄鹤 2024.9.10去边纹设计.indd 2 2024/9/11 8:41:02 2024/9/11 8:41:02
-01
-译者序言
+
+| ISBN 978-7-119-14025-4
+| © Foreign Languages Press Co. Ltd, Beijing, China, 2024
+| Published by Foreign Languages Press Co. Ltd
+| 24 Baiwanzhuang Road, Beijing 100037, China
+| Distributed by China International Book Trading Corporation
+| 35 Chegongzhuang Xilu, Beijing 100044, China
+| P.O. Box 399, Beijing, China
+| Printed in the People’s Republic of China
+
+
+•01
+
+# 译者序言
+
 《我见过黄鹤》是即将陆续出版的汉英对照“武汉作家作品译介”丛书中
 的第一部。这套丛书体裁广泛，风格各异，包括武汉著名现当代作家的选作。
 本书收录 183 首诗，主要选自诗人张执浩的诗集《高原上的野花》和
@@ -23,13 +29,16 @@ Printed in the People’s Republic of China
 以是一座城市，这座城市就是诗人用文字一砖一瓦构建出来的家国情怀。作
 为译者，我很高兴有缘斯人，有力气把这座城市通过这本书介绍给喜欢诗歌
 并通过诗歌来了解这座城市的读者们。
-我见过黄鹤 2024.9.10去边纹设计.indd 1 我见过黄鹤 2024.9.10去边纹设计.indd 1 2024/9/11 8:41:02 2024/9/11 8:41:02
-02
-PREFACE
+
+•02
+
+# PREFACE
+
 I Have Seen the Yellow Crane is the first book of the Chinese-English “Wuhan
 Poetry and Prose in Translation” series. This series presents selected works by
 the most prominent modern and contemporary Wuhan authors. The books
 cover various subjects and are distinguished in their respective styles.
+
 Featuring 183 poems, selected mainly from Wild Flowers on the Plateau and
 The Everlasting Pot by contemporary Chinese poet Zhang Zhihao, I Have Seen
 the Yellow Crane showcases the poet’s remarkable ability to stay close with daily
@@ -45,9 +54,11 @@ hearth, and generous kindness to friends nearby and afar, this book is a city in
 and of itself, words its bricks and love its mortar. As the translator, I feel great
 joy in translating these poems and sharing them with poetry lovers who are
 interested in accessing this city, real and literary.
-我见过黄鹤 2024.9.10去边纹设计.indd 2 我见过黄鹤 2024.9.10去边纹设计.indd 2 2024/9/11 8:41:02 2024/9/11 8:41:02
-03
-INTRODUCTION
+
+•03
+
+# INTRODUCTION
+
 I started to read Zhang Zhihao’s poetry while a friend and I were looking for
 poems to translate for entertainment, but once read, I could not have enough of
 it. Zhang’s poetry is simply enjoyable with its eloquence, elegance, and elevating
@@ -57,7 +68,9 @@ This volume of poetry translation is therefore a labor of love. Wearing three
 hats, I aim to share a delightful poetry experience with readers who love poetry
 for what it is and to help expand the global landscape of contemporary Chinese
 poetry.
-( 1 )
+
+## ( 1 )
+
 Zhang’s poetry is very eloquent. With a minimal repository of poetic
 techniques—metaphor, symbolism, parallel structure, personification, pun—
 it covers all sorts of subject matter in a remarkably accessible manner. Whether
@@ -68,14 +81,16 @@ poetry comes with a magic sheen that adheres to “whatever the eyes see is poet
 characterize poetry by Du Fu who is one of the most influential Chinese poets
 ever. Zhang strives to turn out poetry that can speak to the core of the common,
 quotidian, and visceral.
-我见过黄鹤 2024.9.10去边纹设计.indd 3 我见过黄鹤 2024.9.10去边纹设计.indd 3 2024/9/11 8:41:02 2024/9/11 8:41:02
-04
+
+•04
+
 More specifically, Zhang believes in the axiom, “Write what you know.” He
 values truth and embraces truth even as it is beyond grasp, and if he cannot tell
 it, he decides not to lie. He accomplishes this by closely observing the smallest
 of life’s details and distilling them for meaning. He insists these are the very
 moments that do matter—small pieces of daily living that define people and
 connect people as human beings.
+
 For instance, in “A Steelyard” (一杆秤 See page 66), Zhang delineates a
 countryside afternoon he experienced and transforms it into an enlightening
 reading. Apparently, the villagers gathered to slaughter a buffalo for celebration
@@ -94,13 +109,15 @@ Zhang uses this poem to ask human beings to stoop down to the level of
 the buffalo to understand the other creatures’ sacrifice and reexamine human
 assumptions and hubris. On the scale is not only bodily weight but also human
 lack of self-understanding.
-我见过黄鹤 2024.9.10去边纹设计.indd 4 我见过黄鹤 2024.9.10去边纹设计.indd 4 2024/9/11 8:41:02 2024/9/11 8:41:02
-05
+
+•05
+
 Zhang grew up in the countryside. His knowledge of the countryside or
 everyday life of the country folks helps his poetry writing in detail, giving it
 a quirky twist to tone and style. It shapes Zhang’s own content and thought
 to grow on that content, which forms a significant part of his poetry. It is no
 surprise to see him use planting rice seedlings as a vehicle for his poetics.
+
 “Left Align” (左对齐 See page 4) portrays the poetry composition process,
 from a blank piece of paper to a page full of human characters, unfolding story,
 and eventual interior sensation. The extended metaphor—composing poetry
@@ -108,6 +125,7 @@ is like transplanting rice seedlings in a field—is both picturesque and dynami
 visual and cerebral; sensual and analytical; and familiar and freshly new. It’s hardly
 imaginable somebody who has never experienced that life would write in such
 surgical precision and yet with such poetic sensuality.
+
 These poems reassure readers that daily life, whether hard or happy, is
 precious and meaningful if people contemplate it observantly. And it does it
 in a strikingly elegant manner. Zhang has fashioned a poetic voice of his own.
@@ -117,11 +135,13 @@ shunning exaggerated high-sounding tone and words, such as destiny, human
 society, nation, times, history, etc. His is a poetic voice that refuses to budge
 to the pretentious, spectacular trend, or yield to self-desire. He chooses to be
 deliberate, as Ralph Waldo Emerson believed that Man Thinking should.
+
 For instance, it cannot be said that “In Response to My Love, to the New
 Year as Well” (答枕边人，兼致新年 See page 160) does not contain barbs, but
 the language register and tone of the poem sound so gentle and intimate that the
-我见过黄鹤 2024.9.10去边纹设计.indd 5 我见过黄鹤 2024.9.10去边纹设计.indd 5 2024/9/11 8:41:02 2024/9/11 8:41:02
-06
+
+•06
+
 poem flows almost like a lyrical love poem. The poem considers it miraculous
 to stay to the “original intention” and consoling to have days free of “smog.”
 Readers easily read the poem as a social critique, or gentle buttering up, which
@@ -132,6 +152,7 @@ with “you” at year’s end. This feeling is highly relatable and intimate. T
 no intricate poetry form, glaring technical somersaults, high-flown diction, and
 pretentious piety or insincerity; the poem simply speaks gently to the heart and
 lingers with a long finish, creating a delightful image of beauty.
+
 Zhang is in truth very adroit with image creation. In “Conveyor Belt” (传
 送带 See page 53) he focuses on one who is waiting at the airport baggage
 carousel. Anyone who has taken a plane or long-distance bus, waited for a
@@ -146,9 +167,11 @@ this metaphor, he is doubly engaged—the visual denotation and the emotional
 connotation. More than one thing is happening at once, and he invites the
 readers to respond at both levels. Zhang relishes the fun of playing with the
 purported meaning though he is mainly concerned with the second meaning of
-我见过黄鹤 2024.9.10去边纹设计.indd 6 我见过黄鹤 2024.9.10去边纹设计.indd 6 2024/9/11 8:41:02 2024/9/11 8:41:02
-07
+
+•07
+
 his poem. The resulting image is vivid, delightful, and easily identifiable.
+
 Zhang’s poetry is also effective in elevating the heart and mind to the most
 touching, daring, and far-reaching. For example, in “The Mushroom Spoke, and
 the Wood Ear Listened” (蘑菇说，木耳听 See page 46) the main literary device
@@ -157,6 +180,7 @@ characters cannot get along with each other despite their shared desire to retur
 to where they grew up. The poem lends itself to many interpretations–racism,
 prejudice against people due to their weight, lack of dialogue, inability to return,
 mutual foible, etc., and it can thereby appeal to many different audiences.
+
 “Hoop Rolling” (滚铁环 See page 54) is another poem that evokes children’s
 innocence, but subtly morphs into awareness of the abysmal, difficult to grasp
 world. The poem presents a vignette of a countryside milieu: threshing ground,
@@ -167,14 +191,17 @@ unexpected looms large near the end where the child runs at high speed into
 thicker and thicker darkness. The early strains are nothing compared with this
 imperious darkness. In 15 lines, the poem turns one late evening into a symbol
 of unfathomable precarity of life while youthful in tone.
+
 As shown, although these poems may appear to be about the routine,
 personal, and even insignificant, they not only penetrate deep into the essence
 of life and human circumstances but also elevate the mind to where readers
 can sustain through the day, spot beauty in the simple, and aspire to be resilient,
 empathetic, and dignified.
-我见过黄鹤 2024.9.10去边纹设计.indd 7 我见过黄鹤 2024.9.10去边纹设计.indd 7 2024/9/11 8:41:02 2024/9/11 8:41:02
-08
-( 2 )
+
+•08
+
+## ( 2 )
+
 Given the characteristics of Zhang’s poetry, how should I translate it? There
 have been many approaches to translation. As translation of Chinese poetry into
 English is concerned, Western translation moved historically from missionaries
@@ -183,6 +210,7 @@ translation approaches into domesticating the original or foreignizing the
 translation. Meanwhile, Chinese translators have focused more on translating
 English poetry into Chinese, and their debate about translation has centered on
 three criteria—faithfulness, expressiveness, and eloquence.
+
 All these approaches exist for good reasons and work well for one
 purpose or another. However, I shun the models set up by the foreignizing vs
 domesticating dichotomy and its implications, as well as the rigid understanding
@@ -197,10 +225,13 @@ circumstances of their production” (115). Thus, the three hats I wear decide
 which poems I translate, how I translate, and what appearance I fashion for
 them. Most importantly, I firmly believe good poetry translation should be good
 poetry in and of itself.
+
 I illustrate what I mean by discussing the translation of a few poems in this
-我见过黄鹤 2024.9.10去边纹设计.indd 8 我见过黄鹤 2024.9.10去边纹设计.indd 8 2024/9/11 8:41:02 2024/9/11 8:41:02
-09
+
+•09
+
 volume.
+
 In “Forms” (形色 See page 191) the title word of the poem could be Forms
 or Rūpa. Rūpa is a Buddhist term. It includes anything that has impact upon the
 human senses (which is “real” in Buddhist terms), such as people’s dreams, ideas,
@@ -217,6 +248,7 @@ beautiful name, and a famous name shows that the speaker has not achieved the
 Buddhist non-self, or the universal “oneness” (Barash 88). Therefore, the word
 Forms sounds faithful to the original poem, but the Buddhist connection is also
 well kept.
+
 While the above translation pays attention to denotation and connotation,
 and differences in understanding Buddhism between Easterners and Westerners,
 my translation of “The Mushroom Spoke, and the Wood Ear Listened” entails
@@ -224,13 +256,15 @@ another type of flexibility. There are several choices for 木耳, a mushroom th
 grows on fallen tree trunks and used in cooking: fungus, edible wood fungus,
 cloud ear, or tree ear. I chose “wood ear” because it’s perfect for the situation.
 The two dried fellows are level in the same bathtub, and one spoke and the
-我见过黄鹤 2024.9.10去边纹设计.indd 9 我见过黄鹤 2024.9.10去边纹设计.indd 9 2024/9/11 8:41:03 2024/9/11 8:41:03
-10
+
+•10
+
 other obviously needed an ear or ears to listen, especially when the poem uses
 personification! This choice is neither due to domesticating (Fungus does carry
 a nasty connotation) nor foreignizing (Wood ear is chosen more because the two
 fellows need to be in the same bathtub and equal in status than it is an effort to
 do a literal translation).
+
 While these word choices are in correlation with contextual nuance,
 “Haystack” (草垛 See page 100) juggles two cultures and revolves around a
 rock. Here, which word should be chosen for 石头? Rock, stone, pebble? Given
@@ -242,6 +276,7 @@ a rock” that means “overestimating one’s strength or oneself, not knowing 
 own limitations.” So, using the word rock can readily bring out the allusion
 and accompanying image of innocence and exclusive relationship. Is this
 foreignization? Maybe, but it is simply a faithful and felicitous choice.
+
 Other times my choice hinges upon a reflection of language sensibility.
 For instance, in “The River That Would Never See the Sea” (看不见大海的
 河流 See page 20), the father of the speaker responds by body language to the
@@ -250,12 +285,14 @@ the father shaking his head as one reaction and pointing to the sky as another.
 Two images ensue, which are both used by the speaker to speculate on the
 metaphysical origin of the river or human life. The poem is about the speculative
 intellect of the Emersonian man-thinking type of father and son. However, it
-我见过黄鹤 2024.9.10去边纹设计.indd 10 我见过黄鹤 2024.9.10去边纹设计.indd 10 2024/9/11 8:41:03 2024/9/11 8:41:03
-11
+
+•11
+
 would be awkward or unnatural to use “reactions” in the lines “I deliberated over
 his reaction for many years” and “my father’s reaction” in English. Therefore,
 I opted for the singular form, which alters neither the feel nor meaning of the
 poem at all.
+
 My decisions are often as cultural as they are linguistic. Translation is mediated
 transmission, thus the site of interaction for beliefs, values, and structures with
 disparate origins. Choosing a word could be a cultural decision. For example,
@@ -265,6 +302,7 @@ either a personal buddy, a family member, or a sentient philosophical being. Som
 of the poems are written in the second person narration, which does not generate
 any complexity for translation, but others are written in the third person. In those
 cases, to translate means to juggle cultural differences.
+
 For instance, the title of “Remembering My Dog in the Year of the Dog”
 already indicates the poem’s focus, the oxytocin-infused relationship between
 human beings and their canine friends. Zhang conveys his love for his dog, but
@@ -276,11 +314,13 @@ dog’s gender, whereas Chinese dog owners, though they love their dogs dearly,
 still likely use “it” as it is traditional. So, which pronoun to use? I chose she/her/
 hers because these pronouns make the translation better attuned to the sense and
 sensibility of the Western readers, and they align better with the sentiment the
-我见过黄鹤 2024.9.10去边纹设计.indd 11 我见过黄鹤 2024.9.10去边纹设计.indd 11 2024/9/11 8:41:03 2024/9/11 8:41:03
-12
+
+•12
+
 poem presents. It turns out domesticating the original can be more faithful to the
 original. The change of pronouns helps the readers feel closer to what the poet
 feels.
+
 A unique characteristic of Zhang’s poems is that they often use no end of
 the line punctuation or stanza division. As the volume shows, Zhang’s repertoire
 is minimal—occasional inverted commas, dashes, and periods within the lines.
@@ -289,6 +329,7 @@ Searches for the Signal” and “The Span,” I adopted italics to indicate wor
 spoken by the characters. I could have chosen inverted commas, but because
 Zhang usually uses no end of the line punctuation marks, I avoided that by
 choosing italics instead.
+
 Where Zhang manifests a rare degree of confidence in and linguistic
 awareness of what makes poetry is syntax. He fashions a tightly coiled syntax for
 each individual poem. Such powerful play of syntax, typographical extension as a
@@ -302,8 +343,9 @@ vista wider and wider, with the last two lines pushing the poem to the summit
 of aesthetic beauty. Zhang has written many such picturesque poems, some of
 which are found in this volume, such as “Three Days After the Snow,” “Sunday
 Snow,” “Old Days,” and “Spring Equinox.”
-我见过黄鹤 2024.9.10去边纹设计.indd 12 我见过黄鹤 2024.9.10去边纹设计.indd 12 2024/9/11 8:41:03 2024/9/11 8:41:03
-13
+
+•13
+
 Distorting syntax in translation reduces and deforms meaning, and the
 poems can be syntactically vandalized. With stops added, there would be less
 desirable visual flow and, in some cases, ambiguity and complexity. Therefore, I
@@ -316,6 +358,7 @@ education as well as decades of language immersion. This advantage lends my
 translations a high degree of faithfulness, fluency and ease. For illustration, while
 English translations are often longer than their Chinese originals, my translations
 are generally equal in length by sticking to the original syntax.
+
 In total, 183 poems are selected from Zhang’s award-winning collections,
 Wild Flowers on the Plateau and The Everlasting Pot. These poems are arranged
 into groups with quotes from great English poems to showcase how Zhang
@@ -328,7 +371,9 @@ further exploration. As a college professor, I hope it facilitates fun, but also
 versatility for pedagogical use. On a more ambitious note, this volume marks the
 first book-length English-language edition of Zhang’s poetry, providing access to
 the writings of a major contemporary Chinese poet.
-我见过黄鹤 2024.9.10去边纹设计.indd 13 我见过黄鹤 2024.9.10去边纹设计.indd 13 2024/9/11 8:41:03 2024/9/11 8:41:03
+
+•
+
 目 录
 篇一 诗应当不言 / 而自明
 万古烧 002
@@ -347,8 +392,9 @@ the writings of a major contemporary Chinese poet.
 篇二 用心，这是我们永远要做的正经事
 断流河抒怀 018
 旅游札记 019
-我见过黄鹤 2024.9.10去边纹设计.indd 14 我见过黄鹤 2024.9.10去边纹设计.indd 14 2024/9/11 8:41:03 2024/9/11 8:41:03
-15
+
+•15
+
 CONTENTS
 I. A poem should not mean/ but being.
 The Everlasting Pot 002
@@ -367,8 +413,9 @@ Wild Flowers on the Plateau 015
 II. To pay attention, this is our endless and proper work.
 Thoughts on the Drying-Up River 018
 Travel Notes 019
-我见过黄鹤 2024.9.10去边纹设计.indd 15 我见过黄鹤 2024.9.10去边纹设计.indd 15 2024/9/11 8:41:03 2024/9/11 8:41:03
-16
+
+•16
+
 看不见大海的河流 020
 一点生活 021
 芡实与菱角 022
@@ -390,8 +437,9 @@ Travel Notes 019
 南瓜诗 038
 迎春花 039
 秋葵 040
-我见过黄鹤 2024.9.10去边纹设计.indd 16 我见过黄鹤 2024.9.10去边纹设计.indd 16 2024/9/11 8:41:03 2024/9/11 8:41:03
-17
+
+•17
+
 The River That Would Never See the Sea 020
 A Pinch of Life 021
 Fox Nuts and Bat Nuts 022
@@ -414,8 +462,9 @@ Brown Sugar and Youtiao 037
 Song of the Pumpkin 038
 Winter Jasmine 039
 Okra 040
-我见过黄鹤 2024.9.10去边纹设计.indd 17 我见过黄鹤 2024.9.10去边纹设计.indd 17 2024/9/11 8:41:03 2024/9/11 8:41:03
-18
+
+•18
+
 把手伸进别人的兜里 041
 树枝不会因为果实而折断 042
 何以见得 043
@@ -438,8 +487,9 @@ Okra 040
 吹气球 061
 七叶一枝花 062
 花饭 063
-我见过黄鹤 2024.9.10去边纹设计.indd 18 我见过黄鹤 2024.9.10去边纹设计.indd 18 2024/9/11 8:41:03 2024/9/11 8:41:03
-19
+
+•19
+
 Putting Your Hand in Someone’s Pocket 041
 Branches Won’t Break Despite the Fruit 042
 How Do We Know That 043
@@ -462,8 +512,9 @@ Listening to Rain Under the Tree 060
 Blowing Up a Balloon 061
 Paris Polyphylla, aka Seven-Leaves-One-Flower 062
 Fried Rice 063
-我见过黄鹤 2024.9.10去边纹设计.indd 19 我见过黄鹤 2024.9.10去边纹设计.indd 19 2024/9/11 8:41:03 2024/9/11 8:41:03
-20
+
+•20
+
 哞哞 064
 什么是飞禽什么是走兽 065
 一杆秤 066
@@ -487,8 +538,9 @@ Fried Rice 063
 红桦树 084
 跳出油锅的鱼 085
 汇合 086
-我见过黄鹤 2024.9.10去边纹设计.indd 20 我见过黄鹤 2024.9.10去边纹设计.indd 20 2024/9/11 8:41:03 2024/9/11 8:41:03
-21
+
+•21
+
 Moo-Moo 064
 Birds vs. Beasts 065
 A Steelyard 066
@@ -512,8 +564,9 @@ Heart on Fire 083
 Red Birch 084
 Fish That Jumped Out of the Oil Pan 085
 Meeting Each Other 087
-我见过黄鹤 2024.9.10去边纹设计.indd 21 我见过黄鹤 2024.9.10去边纹设计.indd 21 2024/9/11 8:41:03 2024/9/11 8:41:03
-22
+
+•22
+
 同类的忧伤 088
 尺度 090
 我见过黄鹤 092
@@ -536,8 +589,9 @@ Meeting Each Other 087
 暮色中 110
 草木灰 111
 奔丧之路 112
-我见过黄鹤 2024.9.10去边纹设计.indd 22 我见过黄鹤 2024.9.10去边纹设计.indd 22 2024/9/11 8:41:03 2024/9/11 8:41:03
-23
+
+•23
+
 The Same Kind of Sadness 089
 The Span 091
 I’ve Seen the Yellow Crane 093
@@ -562,8 +616,9 @@ Wood Ash
 111
 On the Way to Funerals
 112
-我见过黄鹤 2024.9.10去边纹设计.indd 23 我见过黄鹤 2024.9.10去边纹设计.indd 23 2024/9/11 8:41:03 2024/9/11 8:41:03
-24
+
+•24
+
 祭父诗 113
 每家都有上山的人 114
 姐姐 115
@@ -587,8 +642,9 @@ On the Way to Funerals
 狗年忆狗 134
 深筒胶鞋 136
 停止生长的脚 138
-我见过黄鹤 2024.9.10去边纹设计.indd 24 我见过黄鹤 2024.9.10去边纹设计.indd 24 2024/9/11 8:41:03 2024/9/11 8:41:03
-25
+
+•25
+
 In Memory of My Father 113
 Every Family Has Someone Who Rests on That Mountain 114
 Sister 115
@@ -614,8 +670,9 @@ From the Conservatory to the Experimental Middle School 133
 Remembering My Dog in the Year of the Dog 135
 High Rubber Rainboots 137
 Feet That Stopped Growing 139
-我见过黄鹤 2024.9.10去边纹设计.indd 25 我见过黄鹤 2024.9.10去边纹设计.indd 25 2024/9/11 8:41:03 2024/9/11 8:41:03
-26
+
+•26
+
 在烈日下想象一场暴雨 140
 拉链与纽扣 142
 篇六 燕燕于飞，下上其音
@@ -638,8 +695,9 @@ Feet That Stopped Growing 139
 答枕边人，兼致新年 160
 催咚催 161
 咏春调 162
-我见过黄鹤 2024.9.10去边纹设计.indd 26 我见过黄鹤 2024.9.10去边纹设计.indd 26 2024/9/11 8:41:03 2024/9/11 8:41:03
-27
+
+•27
+
 Imagine a Heavy Rainfall in the Scorching Sun 141
 Zipper and Button 142
 VI. Oh swallows, sing in varied note/to each other for sweet succor.
@@ -662,8 +720,9 @@ Dear Little Brother—To Ye Zhou 159
 In Response to My Love, To the New Year as Well 160
 Cui Dong Cui, In the Style of a Hubei Folk Song 161
 To the Tune of Spring 162
-我见过黄鹤 2024.9.10去边纹设计.indd 27 我见过黄鹤 2024.9.10去边纹设计.indd 27 2024/9/11 8:41:03 2024/9/11 8:41:03
-28
+
+•28
+
 有些花不开也罢 163
 终结者 164
 与父亲同眠 166
@@ -686,8 +745,9 @@ To the Tune of Spring 162
 和婴儿说话的人 192
 你以为呢 193
 数花瓣 194
-我见过黄鹤 2024.9.10去边纹设计.indd 28 我见过黄鹤 2024.9.10去边纹设计.indd 28 2024/9/11 8:41:03 2024/9/11 8:41:03
-29
+
+•29
+
 It’s Fine If Some Flowers Do Not Bloom 163
 Terminator 165
 Sleeping with My Father 167
@@ -710,8 +770,9 @@ Forms 191
 One Who Talks to a Baby 192
 What Do You Suppose It to Be? 193
 Counting Petals 194
-我见过黄鹤 2024.9.10去边纹设计.indd 29 我见过黄鹤 2024.9.10去边纹设计.indd 29 2024/9/11 8:41:03 2024/9/11 8:41:03
-30
+
+•30
+
 在蒸锅旁 195
 带绿叶的金钱橘 196
 一盏明灯 197
@@ -732,8 +793,9 @@ Counting Petals 194
 清晨的鱼汤 214
 鸣谢 215
 后记 220
-我见过黄鹤 2024.9.10去边纹设计.indd 30 我见过黄鹤 2024.9.10去边纹设计.indd 30 2024/9/11 8:41:03 2024/9/11 8:41:03
-31
+
+•31
+
 By the Steamer 195
 The Kumquat with Green Leaves 196
 The Bright Light 197
@@ -755,18 +817,21 @@ Slow Motion 213
 Fish Soup for the Morning 214
 ACKNOWLEDGEMENTS 217
 BIBLIOGRAPHY 219
-我见过黄鹤 2024.9.10去边纹设计.indd 31 我见过黄鹤 2024.9.10去边纹设计.indd 31 2024/9/11 8:41:03 2024/9/11 8:41:03
+
+•
+
 XXXII
-我见过黄鹤 2024.9.10去边纹设计.indd 32 我见过黄鹤 2024.9.10去边纹设计.indd 32 2024/9/11 8:41:03 2024/9/11 8:41:03
+
+•
+
 篇
 一 诗应当不言 / 而自明
 I.  A poem should not mean/
 but being.
-我见过黄鹤 2024.9.10去边纹设计.indd 1 我见过黄鹤 2024.9.10去边纹设计.indd 1 2024/9/11 8:41:03 2024/9/11 8:41:03
 
+•
 
-# 万古烧
-
+万古烧
 我买了一口好锅
 可以用一辈子的那种
 陶土的，有松木盖的
@@ -777,10 +842,10 @@ but being.
 它就那样闲置着
 像我一样空空如也
 却不可测度
-我见过黄鹤 2024.9.10去边纹设计.indd 2 我见过黄鹤 2024.9.10去边纹设计.indd 2 002
 
-# THE EVERLASTING POT
+•
 
+THE EVERLASTING POT
 I bought a good pot
 one that can last a whole life
 made of clay, with a pinewood lid
@@ -791,7 +856,9 @@ But more often I’d rather
 it just lay idle there
 like me, empty
 yet unfathomable
-2024/9/11 8:41:03 2024/9/11 8:41:03
+
+§
+
 写诗是……
 写诗是干一件你从来没有干过的活
 工具是现成的，你以前都见过
@@ -807,7 +874,9 @@ yet unfathomable
 他用一根铁钩从泥洞里掏出了一团蛇
 我至今还记得我的尖叫声
 写诗是记忆里的尖叫和回忆时的心跳
-我见过黄鹤 2024.9.10去边纹设计.indd 3 我见过黄鹤 2024.9.10去边纹设计.indd 3 003
+
+•
+
 WRITING POETRY IS …
 Writing poetry is doing something you have never done before
 the tools are off the shelf, and you have seen them all
@@ -825,7 +894,9 @@ of snakes
 I still remember my shrill screams
 Writing poetry is screaming in memory and heart pounding
 in reminiscing
-2024/9/11 8:41:03 2024/9/11 8:41:03
+
+§
+
 左对齐
 一首诗的右边是一大块空地
 当你在左边写下第一个字
@@ -843,7 +914,9 @@ in reminiscing
 他一只脚已经迈出了门槛
 另外一只还在屋内
 那一刻曾在他内心里上演过无数次
-我见过黄鹤 2024.9.10去边纹设计.indd 4 我见过黄鹤 2024.9.10去边纹设计.indd 4 004
+
+•
+
 LEFT ALIGN
 To the right of a poem is vast empty space
 When you write down the first word on the left
@@ -861,7 +934,9 @@ The moment he arrives home he’s ready to depart again
 his one foot is already outside of the threshold
 and his other still inside
 That moment he had once rehearsed numerous times
-2024/9/11 8:41:03 2024/9/11 8:41:03
+
+§
+
 笤帚经过大地的
 声音
 笤帚经过大地的声音
@@ -880,7 +955,9 @@ That moment he had once rehearsed numerous times
 此刻他一定在某个角落
 用你熟悉又陌生的那双手
 紧锁着自己的领口
-我见过黄鹤 2024.9.10去边纹设计.indd 5 我见过黄鹤 2024.9.10去边纹设计.indd 5 005
+
+•
+
 SOUND OF A BROOM SWEEPING
 ACROSS THE EARTH
 The sound of a broom sweeping across the earth
@@ -901,7 +978,9 @@ Were your father still alive
 at present he would be in a certain corner
 his hands familiar and strange to you
 covering his collar
-2024/9/11 8:41:03 2024/9/11 8:41:03
+
+§
+
 在黑暗中写诗
 最近多有失眠
 身处黑暗像一个靶子
@@ -917,7 +996,9 @@ covering his collar
 它们去得最远的地方
 也是你最不愿意
 让我看见的伤心处
-我见过黄鹤 2024.9.10去边纹设计.indd 6 我见过黄鹤 2024.9.10去边纹设计.indd 6 006
+
+•
+
 WRITING POETRY IN
 DARKNESS
 Recently I have suffered much from insomnia
@@ -934,7 +1015,9 @@ exhausting all that’s in me
 The farthest place the lines have reached
 is heartbreaking recess that
 you do not want me to access
-2024/9/11 8:41:03 2024/9/11 8:41:03
+
+§
+
 梦见一首诗
 有时候我会梦见一首诗
 她在梦中的样子无比清晰
@@ -953,7 +1036,9 @@ you do not want me to access
 有时候我在一首诗里闪烁
 梦醒之后才发现
 我从来不曾带走过任何梦中之物
-我见过黄鹤 2024.9.10去边纹设计.indd 7 我见过黄鹤 2024.9.10去边纹设计.indd 7 007
+
+•
+
 I DREAM OF A POEM
 Sometimes I dreamed of a poem
 her appearance in my dream incredibly clear
@@ -972,7 +1057,9 @@ but as soon as I turned my back they dimmed
 Sometimes I would glow in a poem
 Once waking up I would find
 I could never retrieve anything from my dreams
-2024/9/11 8:41:03 2024/9/11 8:41:03
+
+§
+
 玫瑰与月季
 当一个诗人无法说出
 诗是什么的时候
@@ -989,7 +1076,9 @@ I could never retrieve anything from my dreams
 诗是什么已经不重要了
 重要的是我已经学会了如何
 将偶然之爱混淆于必然之爱中
-我见过黄鹤 2024.9.10去边纹设计.indd 8 我见过黄鹤 2024.9.10去边纹设计.indd 8 008
+
+•
+
 ROSE AND CHINESE ROSE
 When a poet cannot explain
 what poetry is
@@ -1006,7 +1095,9 @@ When I am finally conscious of love
 what poetry is no longer matters
 What matters is that I’ve learned
 to envelop accidental love into inevitable love
-2024/9/11 8:41:03 2024/9/11 8:41:03
+
+§
+
 关于我的睡姿
 我没有见过我的睡姿
 当我像虾米一样
@@ -1025,7 +1116,9 @@ to envelop accidental love into inevitable love
 那条挣扎着的鱼
 当它放弃了挣扎
 也就完成了命运对它的塑形
-我见过黄鹤 2024.9.10去边纹设计.indd 9 我见过黄鹤 2024.9.10去边纹设计.indd 9 009
+
+•
+
 ABOUT MY SLEEPING
 POSITION
 I have never seen my sleeping position
@@ -1045,7 +1138,9 @@ like what you saw in the pond during childhood
 a flopping fish
 when it gave up wiggling
 fate also shaped it as meant to be
-2024/9/11 8:41:03 2024/9/11 8:41:03
+
+§
+
 冰箱贴
 做菜的间隙
 我时常打量
@@ -1070,7 +1165,9 @@ fate also shaped it as meant to be
 我将成全我
 在明朗的人间
 做一个风尘仆仆的人
-我见过黄鹤 2024.9.10去边纹设计.indd 10 我见过黄鹤 2024.9.10去边纹设计.indd 10 010
+
+•
+
 FRIDGE MAGNETS
 During cooking breaks
 I often examine
@@ -1095,7 +1192,9 @@ own doings
 I shall enable myself
 to become in this bright world
 a weary, way-worn wanderer
-2024/9/11 8:41:03 2024/9/11 8:41:03
+
+§
+
 据我所知
 并无真正摆脱了写的诗
 当诗成为必需，写下
@@ -1119,7 +1218,9 @@ a weary, way-worn wanderer
 所谓的诗意，据我所知
 写诗的目的就是为了能成为
 这样一位不知所踪的父亲
-我见过黄鹤 2024.9.10去边纹设计.indd 11 我见过黄鹤 2024.9.10去边纹设计.indd 11 011
+
+•
+
 AS FAR AS I KNOW
 I am not really detached from my poetry
 When poetry becomes a necessity, writing
@@ -1143,7 +1244,9 @@ Yet the calmer they were, the closer they were
 to what is known as the poetic. As far as I know
 the purpose of writing poetry is
 to become such an elusive father
-2024/9/11 8:41:03 2024/9/11 8:41:03
+
+§
+
 被词语找到的人
 平静找上门来了
 并不叩门，径直走近我
@@ -1163,7 +1266,9 @@ to become such an elusive father
 仿佛是在看一部默片
 大厅里只有胶片的转动声
 当镜头转向寂寥的旷野
-我见过黄鹤 2024.9.10去边纹设计.indd 12 我见过黄鹤 2024.9.10去边纹设计.indd 12 012
+
+•
+
 悲伤找上门来了
 幸存者爬过弹坑，铁丝网和水潭
 回到被尸体填满的掩体中
@@ -1174,7 +1279,9 @@ to become such an elusive father
 一个一个找上门来
 填满了我
 替代了我
-2024/9/11 8:41:03 2024/9/11 8:41:03
+
+§
+
 FOUND BY WORDS
 Peace approached my door
 instead of knocking, it walked straight to me
@@ -1195,7 +1302,9 @@ I melt inside this human being
 as if viewing a silent movie
 in a hall where only the turning of the films
 was audible
-我见过黄鹤 2024.9.10去边纹设计.indd 13 我见过黄鹤 2024.9.10去边纹设计.indd 13 013
+
+•
+
 When the camera directed towards the desolate
 wilderness
 sadness approached my door
@@ -1210,7 +1319,9 @@ for those previously elusive words that have
 one by one
 replenished me
 and replaced me
-2024/9/11 8:41:03 2024/9/11 8:41:03
+
+§
+
 到树顶上找风
 有时候我们需要爬到树顶上
 去寻找风。有时候
@@ -1231,7 +1342,9 @@ and replaced me
 有时候我们就这样爬上爬下
 耗尽了汗水，目的是
 等雨水来重新把我们滋润
-我见过黄鹤 2024.9.10去边纹设计.indd 14 我见过黄鹤 2024.9.10去边纹设计.indd 14 014
+
+•
+
 SEARCHING FOR THE WIND ON
 TREETOPS
 Sometimes we needed to climb to the treetops
@@ -1253,7 +1366,9 @@ while only the gadflies felt the wind they stirred up
 Still other times we would repeatedly climb up and down
 shed all sweat, and let
 the rain nurture us one more time
-2024/9/11 8:41:03 2024/9/11 8:41:03
+
+§
+
 015
 高原上的野花
 WILD FLOWERS ON THE
@@ -1274,15 +1389,20 @@ like that creek of unknown origins
 I’d love to shed grateful tears all day long, to convey
 my genuine willingness
 to be the old father with billowing hair
-我见过黄鹤 2024.9.10去边纹设计.indd 15 我见过黄鹤 2024.9.10去边纹设计.indd 15 2024/9/11 8:41:03 2024/9/11 8:41:03
-我见过黄鹤 2024.9.10去边纹设计.indd 16 我见过黄鹤 2024.9.10去边纹设计.indd 16 2024/9/11 8:41:03 2024/9/11 8:41:03
+
+•
+
+
+•
+
 篇
 二 用心，这是我们永远
 要做的正经事
 II.  To pay attention, this is our
 endless and proper work.
-我见过黄鹤 2024.9.10去边纹设计.indd 17 我见过黄鹤 2024.9.10去边纹设计.indd 17 2024/9/11 8:41:03 2024/9/11 8:41:03
-018
+
+•018
+
 断流河抒怀
 THOUGHTS ON THE
 DRYING–UP RIVER
@@ -1304,7 +1424,9 @@ weak yet willful, just like me
 humble and headstrong walking on this dried-up river
 Before and behind me there were torrential waves
 Before and after my life, waves of people
-我见过黄鹤 2024.9.10去边纹设计.indd 18 我见过黄鹤 2024.9.10去边纹设计.indd 18 2024/9/11 8:41:04 2024/9/11 8:41:04
+
+•
+
 旅游札记
 我有对床的恐惧
 越是宽大整洁的床
@@ -1320,7 +1442,9 @@ Before and after my life, waves of people
 仿佛坐在地球上最荒凉的地方
 这么宽大而整洁的荒凉
 像这首诗一样
-我见过黄鹤 2024.9.10去边纹设计.indd 19 我见过黄鹤 2024.9.10去边纹设计.indd 19 019
+
+•
+
 TRAVEL NOTES
 I am afraid of beds
 The more immaculate and bigger the bed is
@@ -1336,7 +1460,9 @@ I sit among four pillows on my bed
 as if sitting in the most desolate place on earth
 Such vast and immaculate desolation
 feels just like this poem
-2024/9/11 8:41:04 2024/9/11 8:41:04
+
+§
+
 看不见大海的河流
 岩子河永远也不会看见大海
 我父亲也没有见过
@@ -1353,7 +1479,9 @@ feels just like this poem
 摇头时我满脸水雾
 抬头见烟雨中的老父亲
 正在堤坝上使劲地朝我挥手
-我见过黄鹤 2024.9.10去边纹设计.indd 20 我见过黄鹤 2024.9.10去边纹设计.indd 20 020
+
+•
+
 THE RIVER THAT WOULD
 NEVER SEE THE SEA
 The Yanzhi River would never see the sea
@@ -1371,7 +1499,9 @@ my father’s reaction
 When he shook his head I was clueless
 When I lifted my head in misty rain I saw him
 waving hard to me from the riverbank
-2024/9/11 8:41:04 2024/9/11 8:41:04
+
+§
+
 一点生活
 超市总把盐袋放在角落
 那地方你一年也光顾不了几次
@@ -1390,7 +1520,9 @@ waving hard to me from the riverbank
 从那时起你就相信
 津津有味的生活源于这
 一丝丝清晰的记忆
-我见过黄鹤 2024.9.10去边纹设计.indd 21 我见过黄鹤 2024.9.10去边纹设计.indd 21 021
+
+•
+
 A PINCH OF LIFE
 The grocery store always tucks away the salt in a corner
 which you frequent no more than a few times a year
@@ -1409,7 +1541,9 @@ and stirring this way and that the dull bottom of a pot
 Since then you’ve believed
 palatable life originates from
 traces of clear memories
-2024/9/11 8:41:04 2024/9/11 8:41:04
+
+§
+
 芡实与菱角
 巨大的木盆漂浮
 在更为巨大的水面上
@@ -1427,7 +1561,9 @@ traces of clear memories
 我要采摘那些水中的果实
 把它们运回陆地
 把它们的家乡运回我的家乡
-我见过黄鹤 2024.9.10去边纹设计.indd 22 我见过黄鹤 2024.9.10去边纹设计.indd 22 022
+
+•
+
 FOX NUTS AND BAT NUTS
 The large wood bucket floated
 on the even larger water surface
@@ -1445,7 +1581,9 @@ I shall travel to places I had never been
 I shall harvest the fruits of water
 I shall transport them to the land
 I shall move their hometown to mine
-2024/9/11 8:41:04 2024/9/11 8:41:04
+
+§
+
 反刍的人
 埋在米糠里的鸡蛋
 封在坛子里的猪油
@@ -1466,7 +1604,9 @@ I shall move their hometown to mine
 好多年前它就已经生锈了
 当它什么都不挂的时候
 它连锈迹也挂不住
-我见过黄鹤 2024.9.10去边纹设计.indd 23 我见过黄鹤 2024.9.10去边纹设计.indd 23 023
+
+•
+
 THE ONE WHO RUMINATES
 Eggs buried in rice bran
 Lard sealed in a jar
@@ -1487,7 +1627,9 @@ driven into the wall many years ago
 rusting since years ago
 When it holds nothing
 it can hardly support the rust
-2024/9/11 8:41:04 2024/9/11 8:41:04
+
+§
+
 到梦里去
 直到昨晚我才发现
 所谓睡眠
@@ -1508,7 +1650,9 @@ it can hardly support the rust
 而你在月光下甩打响鞭
 每抖一下手腕
 我就往你胸前靠近一点
-我见过黄鹤 2024.9.10去边纹设计.indd 24 我见过黄鹤 2024.9.10去边纹设计.indd 24 024
+
+•
+
 TO ENTER YOUR DREAM
 I did not realize until last night
 the so-called sleep
@@ -1529,7 +1673,9 @@ huddling
 When you crack your whip in moonlight
 each move of your wrist
 brings me closer to your chest
-2024/9/11 8:41:04 2024/9/11 8:41:04
+
+§
+
 025
 翠鸟的一天
 A DAY OF THE KINGFISHER
@@ -1563,8 +1709,9 @@ just like the young man once did, skimming stones on the bank
 from morning till night without giving up
 sending stone after stone across
 the ever-widening river
-我见过黄鹤 2024.9.10去边纹设计.indd 25 我见过黄鹤 2024.9.10去边纹设计.indd 25 2024/9/11 8:41:04 2024/9/11 8:41:04
-026
+
+•026
+
 雨没有下透
 THE RAIN ABATED TOO SOON
 牛尾在午后的田埂上来回甩动
@@ -1591,7 +1738,9 @@ Such a self-motivated creature
 one day will surely appear before me
 in this depressing poem
 to regret meeting late
-我见过黄鹤 2024.9.10去边纹设计.indd 26 我见过黄鹤 2024.9.10去边纹设计.indd 26 2024/9/11 8:41:04 2024/9/11 8:41:04
+
+•
+
 找信号的人
 我的朋友魏天无给我讲过
 一个故事，故事的主人公
@@ -1613,7 +1762,9 @@ to regret meeting late
 更让人无可奈何的了
 我曾无数次陷在这样的生活中
 张开嘴巴，却一言不发
-我见过黄鹤 2024.9.10去边纹设计.indd 27 我见过黄鹤 2024.9.10去边纹设计.indd 27 027
+
+•
+
 HE WHO SEARCHES FOR THE
 SIGNAL
 My friend Wei Tianwu once told me
@@ -1636,7 +1787,9 @@ and today fucked up again life
 Nothing sucks more than this
 I had been trapped countless times in such a life
 mouth wide open yet silent
-2024/9/11 8:41:04 2024/9/11 8:41:04
+
+§
+
 028
 一只蚂蚁出门了
 AN ANT VENTURED OUT
@@ -1656,7 +1809,9 @@ I wish tomorrow, as today, it can also
 crawl over corpse after corpse
 and even bring extra
 corpses home
-我见过黄鹤 2024.9.10去边纹设计.indd 28 我见过黄鹤 2024.9.10去边纹设计.indd 28 2024/9/11 8:41:04 2024/9/11 8:41:04
+
+•
+
 在涠洲岛看落日
 我在涠洲岛上看见了最纯粹的落日
 我在日落大海之际看见了
@@ -1674,7 +1829,9 @@ corpses home
 闪烁的波浪，动荡的太平洋
 我知道，这是我仍有把握
 以诗之身活在人间的真正原因
-我见过黄鹤 2024.9.10去边纹设计.indd 29 我见过黄鹤 2024.9.10去边纹设计.indd 29 029
+
+•
+
 SUNSET VIEW ON WEIZHOU
 ISLAND
 I saw the purest sunset on Weizhou Island
@@ -1693,7 +1850,9 @@ inside me a roaring sound resonating with
 the glistening waves, the turbulent Pacific Ocean
 I knew, with certainty, why
 my body could still live in this world as a poet
-2024/9/11 8:41:04 2024/9/11 8:41:04
+
+§
+
 抓一把硬币逛菜市
 每当活不下去的时候
 我会立即起身
@@ -1711,7 +1870,9 @@ my body could still live in this world as a poet
 当硬币花光时
 某种一名不文的满足感
 让我看上去不是一般的幸福
-我见过黄鹤 2024.9.10去边纹设计.indd 30 我见过黄鹤 2024.9.10去边纹设计.indd 30 030
+
+•
+
 GO TO THE FOOD MARKET
 WITH A HANDFUL OF COINS
 When I feel unable to live anymore
@@ -1730,14 +1891,18 @@ round and round
 When the coins are gone
 a certain sense of penniless satisfaction
 makes me look unusually happy
-2024/9/11 8:41:04 2024/9/11 8:41:04
+
+§
+
 篇
 三 荒野向它涌起，/ 在四
 周绵延，不再荒野
 III. The wilderness rose up
 to it (the jar), /and sprawled
 around, no longer wild.
-我见过黄鹤 2024.9.10去边纹设计.indd 31 我见过黄鹤 2024.9.10去边纹设计.indd 31 2024/9/11 8:41:04 2024/9/11 8:41:04
+
+•
+
 腌鱼在滴水
 腌鱼在滴水
 在白色的冒着热气的阳光下
@@ -1753,7 +1918,9 @@ around, no longer wild.
 一旁跳荡的晾衣绳
 绳子上挂着粘满了鱼鳞的棉衣
 棉衣开始很重，后来很轻
-我见过黄鹤 2024.9.10去边纹设计.indd 32 我见过黄鹤 2024.9.10去边纹设计.indd 32 032
+
+•
+
 WATER-DRIPPING
 SALTED FISH
 The salted fish are dripping water
@@ -1770,7 +1937,9 @@ Evening wind plucked at
 the swaying washing line
 on which hung cotton padded coats stained by fish fins
 The coats were first heavy and then light
-2024/9/11 8:41:04 2024/9/11 8:41:04
+
+§
+
 墙边草
 墙边草活在它去年死去的地方
 和去年一样，那几缕绿
@@ -1783,7 +1952,9 @@ The coats were first heavy and then light
 也不会长得太久
 如果太辛苦，它就去死
 等来生再试试
-我见过黄鹤 2024.9.10去边纹设计.indd 33 我见过黄鹤 2024.9.10去边纹设计.indd 33 033
+
+•
+
 GRASS AGAINST THE WALL
 Grass grows against the wall where it died last year
 like those of last year, a few wisps of green,
@@ -1796,7 +1967,9 @@ it can neither grow very tall
 nor survive for long
 If it is too hard, it gives in to death
 till given another try in the next life
-2024/9/11 8:41:04 2024/9/11 8:41:04
+
+§
+
 今年的最后一首诗
 清理鞋柜的时候发现
 大多数鞋子已经不合脚了
@@ -1811,7 +1984,9 @@ till given another try in the next life
 而此时屋子里异常安静
 你赤脚走动时
 能听见心脏的扑腾声
-我见过黄鹤 2024.9.10去边纹设计.indd 34 我见过黄鹤 2024.9.10去边纹设计.indd 34 034
+
+•
+
 END OF THE YEAR POEM
 While sorting out the shoe cabinet you discover
 most shoes no longer fit your feet
@@ -1826,7 +2001,9 @@ a crowd thronging into your place
 and yet the room is unusually quiet
 When walking barefoot
 you can hear the thumping of your heart
-2024/9/11 8:41:04 2024/9/11 8:41:04
+
+§
+
 蟑螂想不明白
 蟑螂想不明白为什么
 它一出现人人就会喊打
@@ -1839,7 +2016,9 @@ you can hear the thumping of your heart
 却无法进入黑暗的内部
 它要的黑暗远比人类能给予的
 辽阔得多
-我见过黄鹤 2024.9.10去边纹设计.indd 35 我见过黄鹤 2024.9.10去边纹设计.indd 35 035
+
+•
+
 COCKROACHES CANNOT
 UNDERSTAND
 Cockroaches cannot understand why
@@ -1853,7 +2032,9 @@ scurrying about the wok's brim again and again
 the cockroaches cannot pentrate darkness itself
 They want from the human world darkness
 too vast to give
-2024/9/11 8:41:04 2024/9/11 8:41:04
+
+§
+
 036
 原来是这样
 SO THAT’S HOW IT’S GOT TO BE
@@ -1879,7 +2060,9 @@ Birds chirped on bamboo shoots
 The shadow of the sun dappled the forest
 I saw myself change from being interesting to boring
 like a hedgehog among its own kind
-我见过黄鹤 2024.9.10去边纹设计.indd 36 我见过黄鹤 2024.9.10去边纹设计.indd 36 2024/9/11 8:41:04 2024/9/11 8:41:04
+
+•
+
 红糖与油条
 再过一座松林就到外婆家了
 再往前走一段路就能看见
@@ -1893,7 +2076,9 @@ like a hedgehog among its own kind
 你身上有红糖和油条的气味
 再让这气味在遥远的年代
 多飘荡一会儿
-我见过黄鹤 2024.9.10去边纹设计.indd 37 我见过黄鹤 2024.9.10去边纹设计.indd 37 037
+
+•
+
 BROWN SUGAR AND
 YOUTIAO
 Another pine grove you will reach grandma’s house
@@ -1908,7 +2093,9 @@ Let it sniff again the five-year-old you
 who smelt of brown sugar and youtiao
 Let this scent in the far away time
 drift a bit longer
-2024/9/11 8:41:04 2024/9/11 8:41:04
+
+§
+
 南瓜诗
 把一只南瓜分成三等分
 两等分送人
@@ -1923,7 +2110,9 @@ drift a bit longer
 来自三百公里外的老家
 这么长的藤
 只结了这样一只瓜
-我见过黄鹤 2024.9.10去边纹设计.indd 38 我见过黄鹤 2024.9.10去边纹设计.indd 38 038
+
+•
+
 SONG OF THE PUMPKIN
 One pumpkin divided into three portions
 Two given away as gifts
@@ -1938,7 +2127,9 @@ But this pumpkin
 originated from my family three hundred kilometers away
 Such a long vine
 yielded only one such pumpkin
-2024/9/11 8:41:04 2024/9/11 8:41:04
+
+§
+
 039
 迎春花
 WINTER JASMINE
@@ -1960,7 +2151,9 @@ their sweet marriage allured lovers by the lake
 When the little boy peed into the pistil of a flower
 the tinkling sounds stimulated
 love between the lovers
-我见过黄鹤 2024.9.10去边纹设计.indd 39 我见过黄鹤 2024.9.10去边纹设计.indd 39 2024/9/11 8:41:04 2024/9/11 8:41:04
+
+•
+
 秋葵
 秋葵怎么做都好吃
 怎么念都好听
@@ -1974,7 +2167,9 @@ love between the lovers
 那也是我第一次吃秋葵
 第一次觉得我们不在一起
 多可惜
-我见过黄鹤 2024.9.10去边纹设计.indd 40 我见过黄鹤 2024.9.10去边纹设计.indd 40 040
+
+•
+
 OKRA
 Okra tastes great however you cook it
 It sounds great however you say it
@@ -1988,7 +2183,9 @@ to be very content
 That was also my first time eating okra
 The first time I felt not sharing life with you
 would be a great pity
-2024/9/11 8:41:04 2024/9/11 8:41:04
+
+§
+
 041
 把手伸进别人的兜里
 PUTTING YOUR HAND IN
@@ -2013,7 +2210,9 @@ is what kind of a feeling
 I no longer want it to be like today
 in cold rain
 searching for your hand in my own pocket
-我见过黄鹤 2024.9.10去边纹设计.indd 41 我见过黄鹤 2024.9.10去边纹设计.indd 41 2024/9/11 8:41:04 2024/9/11 8:41:04
+
+•
+
 树枝不会因为果
 实而折断
 我们在树下讨论生活的意义
@@ -2027,7 +2226,9 @@ searching for your hand in my own pocket
 而树枝也将越垂越低
 没有人在意不说话的时候
 老父亲心里装着什么
-我见过黄鹤 2024.9.10去边纹设计.indd 42 我见过黄鹤 2024.9.10去边纹设计.indd 42 042
+
+•
+
 BRANCHES WON’T BREAK
 DESPITE THE FRUIT
 We were discussing the meaning of life under the tree
@@ -2041,7 +2242,9 @@ and more would grow
 and the branches would bend lower and lower
 Nobody cared when not speaking
 what was in the mind of my old father
-2024/9/11 8:41:04 2024/9/11 8:41:04
+
+§
+
 何以见得
 被春风吹落的树叶含有
 那么多的不舍。何以见得？
@@ -2056,7 +2259,9 @@ what was in the mind of my old father
 灯泡在阴冷的室内摇晃
 何以见得
 生与死不在同一方向
-我见过黄鹤 2024.9.10去边纹设计.indd 43 我见过黄鹤 2024.9.10去边纹设计.indd 43 043
+
+•
+
 HOW DO WE KNOW THAT
 Leaves blown from trees by spring breeze look
 so unwilling. How do we know that?
@@ -2071,7 +2276,9 @@ while sunlight falls on the glass countertop
 and light bulbs shake in the cold room
 How do we know
 life and death are not heading in the same direction
-2024/9/11 8:41:04 2024/9/11 8:41:04
+
+§
+
 有些悲哀你不能克服
 暴雨把蚯蚓冲出了泥土
 无助地蠕动在地表
@@ -2084,7 +2291,9 @@ life and death are not heading in the same direction
 我看见了你永远看不清你
 我看见我消逝在了
 你渐渐变冷的心肠中
-我见过黄鹤 2024.9.10去边纹设计.indd 44 我见过黄鹤 2024.9.10去边纹设计.indd 44 044
+
+•
+
 SOME SADNESS YOU CAN
 NEVER GET OVER
 The storm washed out of the soil the earthworms
@@ -2101,7 +2310,9 @@ The smog wore like clothes, once on, hard to take off
 I saw you but could never see you clearly
 I saw myself vanishing
 in your gradually hardening heart
-2024/9/11 8:41:04 2024/9/11 8:41:04
+
+§
+
 锦鲤
 一条锦鲤游动的时候
 池水波澜不兴
@@ -2116,7 +2327,9 @@ in your gradually hardening heart
 鱼吻绝望
 水花溅得越高的地方
 悲伤越集中
-我见过黄鹤 2024.9.10去边纹设计.indd 45 我见过黄鹤 2024.9.10去边纹设计.indd 45 045
+
+•
+
 KOI FISH
 When a koi fish swims
 pond water remains unfazed
@@ -2131,7 +2344,9 @@ fish kiss tenderly
 fish kiss in despair
 The higher the place where the waves splash
 the denser the sadness
-2024/9/11 8:41:04 2024/9/11 8:41:04
+
+§
+
 046
 蘑菇说，木耳听
 THE MUSHROOM SPOKE, AND
@@ -2154,8 +2369,9 @@ At daybreak, two fat guys soaked tight in water
 The mushroom said: “Hey, hey…”
 The wood ear heard but did not respond
 Both longed to be back on Shennongjia
-我见过黄鹤 2024.9.10去边纹设计.indd 46 我见过黄鹤 2024.9.10去边纹设计.indd 46 2024/9/11 8:41:04 2024/9/11 8:41:04
-047
+
+•047
+
 白芝麻，黑芝麻
 WHITE SESAME, BLACK
 SESAME
@@ -2171,7 +2387,9 @@ When you blend the two together
 why do I always have the urge
 to separate the black ones from the white ones
 or the white ones from the black ones
-我见过黄鹤 2024.9.10去边纹设计.indd 47 我见过黄鹤 2024.9.10去边纹设计.indd 47 2024/9/11 8:41:04 2024/9/11 8:41:04
+
+•
+
 日落之后
 日落之后还有很长一段路要走
 父亲坐在台阶上
@@ -2188,7 +2406,9 @@ or the white ones from the black ones
 再也没有忍受不了的生活
 如果我也能够像他这样
 在黑暗中独自活到天亮
-我见过黄鹤 2024.9.10去边纹设计.indd 48 我见过黄鹤 2024.9.10去边纹设计.indd 48 048
+
+•
+
 AFTER SUNSET
 After sunset there is still a long way to go
 My father sits on the steps
@@ -2205,7 +2425,9 @@ poverty, growth, and loneliness
 Life would no longer be unbearable
 if I could live like my father
 alone in the dark till daylight
-2024/9/11 8:41:04 2024/9/11 8:41:04
+
+§
+
 唯愿
 唯愿我的泡菜坛清亮如初
 豆角、竹笋、萝卜和白菜
@@ -2221,7 +2443,9 @@ alone in the dark till daylight
 我在密封中慢慢发酵
 唯愿你来的那天我正好启封
 空气中弥漫着你久违的味道
-我见过黄鹤 2024.9.10去边纹设计.indd 49 我见过黄鹤 2024.9.10去边纹设计.indd 49 049
+
+•
+
 I’D RATHER
 I’d like to keep brine in my pickling crock pristine
 beans, bamboo shoots, radishes, and cabbages
@@ -2237,7 +2461,9 @@ the water in the moat of my crock never dries up
 and I ferment slowly in a sealed state
 I’d like you to arrive when the lid is opened
 and the air permeates with long-lost taste
-2024/9/11 8:41:04 2024/9/11 8:41:04
+
+§
+
 一团迷雾
 朋友发来大雾图
 他不知道我尚在雾中
@@ -2252,7 +2478,9 @@ and the air permeates with long-lost taste
 那是我见过的
 最红的太阳
 烙铁一样不可描述
-我见过黄鹤 2024.9.10去边纹设计.indd 50 我见过黄鹤 2024.9.10去边纹设计.indd 50 050
+
+•
+
 A FOG
 A friend sent me the weather map for fog
 not knowing that I was right in a fog
@@ -2267,7 +2495,9 @@ Outside the fog the sun looked on unconcerned
 It’s what I have seen as
 the reddest sun
 an indescribable iron
-2024/9/11 8:41:04 2024/9/11 8:41:04
+
+§
+
 河流拐弯的地方
 河流拐弯的地方
 河水你推我搡
@@ -2281,7 +2511,9 @@ an indescribable iron
 我守候在日落的地方
 等着一个人
 头破血流地朝我奔过来
-我见过黄鹤 2024.9.10去边纹设计.indd 51 我见过黄鹤 2024.9.10去边纹设计.indd 51 051
+
+•
+
 WHERE THE RIVER BENDS
 Where the river bends
 the waters push one another
@@ -2295,7 +2527,9 @@ For many times
 I have waited at the sunset place
 for a person
 to run towards me badly battered
-2024/9/11 8:41:04 2024/9/11 8:41:04
+
+§
+
 船桨划水的声音
 我住在一座孤岛上
 周围都是孤岛
@@ -2310,7 +2544,9 @@ to run towards me badly battered
 我听见划水的声音
 每天由早晨的清亮转为
 傍晚过后的清凉
-我见过黄鹤 2024.9.10去边纹设计.indd 52 我见过黄鹤 2024.9.10去边纹设计.indd 52 052
+
+•
+
 SOUND OF OARS ROWING
 IN WATER
 I live on a lone island
@@ -2326,7 +2562,9 @@ water does in the crisscross of rivers
 I hear the sound of oars rowing, turning
 from clear in the morning to
 chilly in the evening
-2024/9/11 8:41:04 2024/9/11 8:41:04
+
+§
+
 传送带
 在场传送带前等候行李的人
 应该是这世上最深情的人
@@ -2342,7 +2580,9 @@ chilly in the evening
 真有这样的爱人
 在人世间值得我将自己
 从麻木与昏眩中唤醒
-我见过黄鹤 2024.9.10去边纹设计.indd 53 我见过黄鹤 2024.9.10去边纹设计.indd 53 053
+
+•
+
 CONVEYOR BELT
 Those who wait at the airport carousel for their luggage
 must be the most loving people in the world
@@ -2358,7 +2598,9 @@ as if there were indeed a love that wouldn’t disappoint
 or indeed such a lover
 for whom it is worth trying in this world
 to awaken myself from indifference and dizziness
-2024/9/11 8:41:04 2024/9/11 8:41:04
+
+§
+
 滚铁环
 我滚过的最大的铁环
 是一只永久牌自行车的轮圈
@@ -2375,7 +2617,9 @@ to awaken myself from indifference and dizziness
 放下蒲扇
 紧张地望着我
 看见我消逝在了黑暗深处
-我见过黄鹤 2024.9.10去边纹设计.indd 54 我见过黄鹤 2024.9.10去边纹设计.indd 54 054
+
+•
+
 HOOP ROLLING
 The biggest hoop I’ve played with
 was the rim of a Forever bike
@@ -2392,7 +2636,9 @@ yet in darkness my parents had
 put away their cattail leaf fan
 and were nervously watching as I
 disappeared into the abyss of darkness
-2024/9/11 8:41:04 2024/9/11 8:41:04
+
+§
+
 瓢泼
 晨起给菜地浇水的人
 并不知道傍晚会下雨
@@ -2414,7 +2660,9 @@ disappeared into the abyss of darkness
 葫芦瓢倒扣在地
 我感到体内尚有无法排解的热气
 顺着眼前的这些藤蔓在袅绕
-我见过黄鹤 2024.9.10去边纹设计.indd 55 我见过黄鹤 2024.9.10去边纹设计.indd 55 055
+
+•
+
 DOWNPOUR
 He who got up early to water the vegetable garden
 did not know an evening rain was on the way
@@ -2437,7 +2685,9 @@ his two buckets sitting awry and dejected in a corner
 and his gourd lying upside down on the ground
 I felt some heat still trapped in my body
 winding up along the vines in front of me
-2024/9/11 8:41:04 2024/9/11 8:41:04
+
+§
+
 鸡冠颂
 我喜欢看血红的鸡冠
 锯齿一样长在公鸡的头顶
@@ -2460,13 +2710,17 @@ winding up along the vines in front of me
 鸣叫起来
 我在公鸡的叫唤声中
 进屋，拉上门闩
-我见过黄鹤 2024.9.10去边纹设计.indd 56 我见过黄鹤 2024.9.10去边纹设计.indd 56 056
+
+•
+
 在火塘边坐下
 周围都是黑夜
 我喜欢那个坐立不安的人
 墙壁上有他的身影
 雪地上有他身体的凹痕
-2024/9/11 8:41:04 2024/9/11 8:41:04
+
+§
+
 057
 ODE TO COCKSCOMB
 I love to see the blood-red cockscomb
@@ -2498,7 +2752,9 @@ I love the watchful man
 on the wall whose shadow flickered
 on the snow-covered ground whose body left
 an impression
-我见过黄鹤 2024.9.10去边纹设计.indd 57 我见过黄鹤 2024.9.10去边纹设计.indd 57 2024/9/11 8:41:04 2024/9/11 8:41:04
+
+•
+
 又见地平线
 梦见脚踏车的链子
 在追赶你的路上掉了
@@ -2510,7 +2766,9 @@ an impression
 仿佛你渐渐远去的背影
 被地平线上的风拉扯成了
 一缕缕呻吟
-我见过黄鹤 2024.9.10去边纹设计.indd 58 我见过黄鹤 2024.9.10去边纹设计.indd 58 058
+
+•
+
 SEEING THE HORIZON
 AGAIN
 In my dream the bicycle chain
@@ -2523,12 +2781,16 @@ tone, sounding
 like your vanishing back
 was torn by the wind on the horizon
 into a chain of moans
-2024/9/11 8:41:04 2024/9/11 8:41:04
+
+§
+
 篇
 四 美即是真，真即是美
 IV. Beauty is truth, truth
 beauty, —that is all.
-我见过黄鹤 2024.9.10去边纹设计.indd 59 我见过黄鹤 2024.9.10去边纹设计.indd 59 2024/9/11 8:41:05 2024/9/11 8:41:05
+
+•
+
 树下听雨
 小叶榕有四万七千片叶子
 上帝数过
@@ -2538,7 +2800,9 @@ beauty, —that is all.
 上帝
 我在树下
 我被蒙在鼓里
-我见过黄鹤 2024.9.10去边纹设计.indd 60 我见过黄鹤 2024.9.10去边纹设计.indd 60 060
+
+•
+
 LISTENING TO RAIN
 UNDER THE TREE
 The banyan tree has forty-seven thousand leaves
@@ -2549,7 +2813,9 @@ God loves percussion music
 God
 I am under the tree
 I am kept in the dark
-2024/9/11 8:41:05 2024/9/11 8:41:05
+
+§
+
 吹气球
 在气球爆炸之前
 你不能确定它能被吹多大
@@ -2565,7 +2831,9 @@ I am kept in the dark
 将在何时终止，你不能确定
 一个人由满面通红到一脸茫然
 这中间都经历过什么
-我见过黄鹤 2024.9.10去边纹设计.indd 61 我见过黄鹤 2024.9.10去边纹设计.indd 61 061
+
+•
+
 BLOWING UP A BALLOON
 Before a balloon pops
 you are not sure how big it can become
@@ -2581,7 +2849,9 @@ You are not sure when the last blowing
 will come to an end; and you are not sure
 between being red-faced and being dazed
 what a person has gone through
-2024/9/11 8:41:05 2024/9/11 8:41:05
+
+§
+
 七叶一枝花
 如果没有“度娘”
 我至今还不清楚
@@ -2599,7 +2869,9 @@ what a person has gone through
 也被蛇追着跑
 只因为赤脚医生说
 它是一味包治百病的药
-我见过黄鹤 2024.9.10去边纹设计.indd 62 我见过黄鹤 2024.9.10去边纹设计.indd 62 062
+
+•
+
 PARIS POLYPHYLLA, AKA SEVEN-
 LEAVES-ONE-FLOWER
 Had it not been for Baidu the search engine
@@ -2618,7 +2890,9 @@ bit by centipedes
 chased by snakes
 merely because the barefoot doctor said
 it’s a cure-all
-2024/9/11 8:41:05 2024/9/11 8:41:05
+
+§
+
 花饭
 一碗花饭有若干种吃法
 我选择最古老的那种——
@@ -2637,7 +2911,9 @@ it’s a cure-all
 也会像我一样
 在房前屋后乱窜
 把每一次散步当成了旅游
-我见过黄鹤 2024.9.10去边纹设计.indd 63 我见过黄鹤 2024.9.10去边纹设计.indd 63 063
+
+•
+
 FRIED RICE
 There are many ways to eat a bowl of fried rice
 I choose the most ancient one —
@@ -2656,7 +2932,9 @@ happy and content
 like I do
 would then scurry around the house
 taking each walk as a trip
-2024/9/11 8:41:05 2024/9/11 8:41:05
+
+§
+
 哞哞
 在汨罗
 蓝蓝问我
@@ -2680,7 +2958,9 @@ taking each walk as a trip
 在这首诗的尽头
 眼巴巴看着
 绿水从青山经过
-我见过黄鹤 2024.9.10去边纹设计.indd 64 我见过黄鹤 2024.9.10去边纹设计.indd 64 064
+
+•
+
 MOO-MOO
 In Miluo
 Lan Lan asked me
@@ -2704,7 +2984,9 @@ like a voiceless me
 at the end of this poem
 hopelessly eyeing
 green waters flowing away from green mountains
-2024/9/11 8:41:05 2024/9/11 8:41:05
+
+§
+
 什么是飞禽
 什么是走兽
 我的小狗永远不明白它属于哪儿
@@ -2724,7 +3006,9 @@ green waters flowing away from green mountains
 是为了对应天上的那些窟窿
 那些被我们误以为是出路的
 大悲伤
-我见过黄鹤 2024.9.10去边纹设计.indd 65 我见过黄鹤 2024.9.10去边纹设计.indd 65 065
+
+•
+
 BIRDS VS. BEASTS
 My little dog has never figured out where she belonged
 chasing mice in competition with cats
@@ -2744,7 +3028,9 @@ for her
 Mirroring holes in the sky
 they are not escapes as we think of them
 they are catastrophes
-2024/9/11 8:41:05 2024/9/11 8:41:05
+
+§
+
 一杆秤
 杀牛的那天下午
 我们坐在田坎上把玩一杆秤
@@ -2763,7 +3049,9 @@ they are catastrophes
 当我蜷起腿离开地面时
 我第一次知道了
 自己的斤两
-我见过黄鹤 2024.9.10去边纹设计.indd 66 我见过黄鹤 2024.9.10去边纹设计.indd 66 066
+
+•
+
 A STEELYARD
 On the afternoon to slaughter the buffalo
 we sat on the field ridge playing with a steelyard
@@ -2782,7 +3070,9 @@ to weigh our weight
 When I curled up to detach from the ground
 for the first time I got to know
 my own worth
-2024/9/11 8:41:05 2024/9/11 8:41:05
+
+§
+
 修地球的人
 清晨他们出门
 带上畚箕、锄头和锹
@@ -2801,7 +3091,9 @@ my own worth
 山那边有一座坑
 他们越挖越深
 我希望那将是我们的逃生通道
-我见过黄鹤 2024.9.10去边纹设计.indd 67 我见过黄鹤 2024.9.10去边纹设计.indd 67 067
+
+•
+
 THOSE WHO FIX THE EARTH
 They depart in the morning
 with bamboo woven dustpans, hoes, and shovels
@@ -2820,7 +3112,9 @@ and measuring with the eye the routine of life
 On the other side of the hill is a pit
 they’ve been digging deeper and deeper
 I hope that will be our escape route
-2024/9/11 8:41:05 2024/9/11 8:41:05
+
+§
+
 烟花表演
 回老家的山坡上找
 一种叫柞木的树蔸
@@ -2840,7 +3134,9 @@ I hope that will be our escape route
 明的时候山河屈指可数
 灭的时候世界漆黑
 我也深陷其中
-我见过黄鹤 2024.9.10去边纹设计.indd 68 我见过黄鹤 2024.9.10去边纹设计.indd 68 068
+
+•
+
 FIREWORKS SHOW
 I went back to my hometown to find on the slope
 a stump of an oak tree
@@ -2860,7 +3156,9 @@ and my father flashed on and off in ashes
 when on, just a few mountains and rivers were discernible
 when off, the world turned pitch black
 with me deep in darkness
-2024/9/11 8:41:05 2024/9/11 8:41:05
+
+§
+
 暮色四合之地
 很难再见暮色四合之地了
 晚风徐徐，晚霞淡去
@@ -2873,7 +3171,9 @@ with me deep in darkness
 浮现出来的干净和轻盈
 只有黑暗在无声无息中包围住我们
 却不知房间里的光从哪里亮起
-我见过黄鹤 2024.9.10去边纹设计.indd 69 我见过黄鹤 2024.9.10去边纹设计.indd 69 069
+
+•
+
 TWILIGHT COURTYARD
 It is hard to find that twilight courtyard again
 Evening breeze puffing, sunset glow fading
@@ -2886,7 +3186,9 @@ It is hard to find again my dirty face
 that beamed with purity and freshness
 when only darkness soundlessly surrounds us
 and no way to know where light will brighten up the room
-2024/9/11 8:41:05 2024/9/11 8:41:05
+
+§
+
 无主之树
 如何判断一棵树
 是病死的还是老死的
@@ -2911,7 +3213,9 @@ and no way to know where light will brighten up the room
 它因何而死就像没人知道
 它为什么而活，孤零零的
 像花圈之于填满灰烬的坟墓
-我见过黄鹤 2024.9.10去边纹设计.indd 70 我见过黄鹤 2024.9.10去边纹设计.indd 70 070
+
+•
+
 NOBODY’S TREE
 To diagnose if a tree
 died of disease or naturally
@@ -2936,7 +3240,9 @@ Nobody told me
 why it died just like nobody told me
 why it had lived; lonely
 it existed like a funeral wreath to a tomb of ashes
-2024/9/11 8:41:05 2024/9/11 8:41:05
+
+§
+
 室韦的祷告
 神呐，就把我流放到这里吧
 抽空我的人性
@@ -2946,7 +3252,9 @@ it existed like a funeral wreath to a tomb of ashes
 在你的天空中翻飞
 再也没有国籍，没有
 被铁丝网圈起来的该死的爱憎
-我见过黄鹤 2024.9.10去边纹设计.indd 71 我见过黄鹤 2024.9.10去边纹设计.indd 71 071
+
+•
+
 SHIWEI’S PRAYER
 Oh, God, let me exile here
 Extract my humanity
@@ -2956,7 +3264,9 @@ Let me be free like the great bustards
 and soar in your sky
 No more nationality, no
 love and hate damned and behind barbed wire
-2024/9/11 8:41:05 2024/9/11 8:41:05
+
+§
+
 072
 风在竹林里干什么
 WHAT IS THE WIND DOING
@@ -2995,7 +3305,9 @@ I surmise the north wind has lost its way
 It holds onto a bamboo cane and cries
 much like middle-aged me
 full of wishes yet floundering
-我见过黄鹤 2024.9.10去边纹设计.indd 72 我见过黄鹤 2024.9.10去边纹设计.indd 72 2024/9/11 8:41:05 2024/9/11 8:41:05
+
+•
+
 在景迈山深处
 仰望星空
 连续三个晚上我们头顶繁星
@@ -3014,7 +3326,9 @@ full of wishes yet floundering
 银河两岸浪花四溅
 星空越是喧哗我们越是沉默
 在黑暗中保持住婴儿的动作
-我见过黄鹤 2024.9.10去边纹设计.indd 73 我见过黄鹤 2024.9.10去边纹设计.indd 73 073
+
+•
+
 AN UPWARD LOOK AT THE
 STARRY SKY DEEP IN JINGMAI
 MOUNTAIN
@@ -3035,7 +3349,9 @@ lost its way
 Waves splashed on either side of the Milky Way
 the noisier the star-dotted sky the more silent we were
 In darkness we maintained the pose of an infant
-2024/9/11 8:41:05 2024/9/11 8:41:05
+
+§
+
 荷叶上的青蛙
 一只青蛙蹲在荷叶上
 荷叶倾斜着
@@ -3050,7 +3366,9 @@ In darkness we maintained the pose of an infant
 不敢大声鸣叫
 我也不敢说出
 我想干什么又能干什么
-我见过黄鹤 2024.9.10去边纹设计.indd 74 我见过黄鹤 2024.9.10去边纹设计.indd 74 074
+
+•
+
 FROG ON A LOTUS LEAF
 A frog squats on a lotus leaf
 the leaf leans
@@ -3065,7 +3383,9 @@ like the frog on the lotus leaf in a thunderstorm
 afraid to croak loudly
 I dare not to say
 what I want to and can do
-2024/9/11 8:41:05 2024/9/11 8:41:05
+
+§
+
 认领
 春分过后阳气回升
 伸懒腰的人也拉抻着驼背
@@ -3079,7 +3399,9 @@ what I want to and can do
 路边的香樟树要在风中
 抖落一些旧叶
 才能为新芽腾出空枝
-我见过黄鹤 2024.9.10去边纹设计.indd 75 我见过黄鹤 2024.9.10去边纹设计.indd 75 075
+
+•
+
 THE CLAIM
 After the spring equinox Yang Qi increases
 and he who stretches also straightens the bent back
@@ -3093,7 +3415,9 @@ It’s soon the season for thriving trees
 In the wind the roadside camphor trees must
 shake off some old leaves
 to surrender branches to fresh sprouts
-2024/9/11 8:41:05 2024/9/11 8:41:05
+
+§
+
 076
 逆行
 WALK TOWARDS EACH OTHER
@@ -3117,7 +3441,9 @@ Yesterday afternoon I followed him
 the back of his balding head in view
 The sun was about to set
 I felt like crying
-我见过黄鹤 2024.9.10去边纹设计.indd 76 我见过黄鹤 2024.9.10去边纹设计.indd 76 2024/9/11 8:41:05 2024/9/11 8:41:05
+
+•
+
 来访者
 来访的斑鸠在窗外
 的樟树上探头探脑
@@ -3129,7 +3455,9 @@ I felt like crying
 从门外递进来的光
 我握住它的时候感觉到
 它正在往回抽
-我见过黄鹤 2024.9.10去边纹设计.indd 77 我见过黄鹤 2024.9.10去边纹设计.indd 77 077
+
+•
+
 THE VISITOR
 The visiting turtledove outside the window
 on the camphor tree pokes its head in and looks about
@@ -3141,7 +3469,9 @@ I extend my hand and luckily grab the visiting hand
 that delivers light from the outside
 When I hold it I feel
 it is pulling back
-2024/9/11 8:41:05 2024/9/11 8:41:05
+
+§
+
 空欢喜
 左边有水杉
 右边是樟木
@@ -3157,7 +3487,9 @@ it is pulling back
 它就会使劲地
 摇晃树梢直到
 把一只鸟摇下天空
-我见过黄鹤 2024.9.10去边纹设计.indd 78 我见过黄鹤 2024.9.10去边纹设计.indd 78 078
+
+•
+
 REJOICED TOO SOON
 Redwood trees on the left
 Camphorwood trees on the right
@@ -3173,7 +3505,9 @@ When neither of us were looking
 it would vigorously
 shake the treetops till
 a bird fell from the air
-2024/9/11 8:41:05 2024/9/11 8:41:05
+
+§
+
 睡前故事
 最好听的故事讲到一半
 会遇到睡眠；最平静的
@@ -3192,7 +3526,9 @@ a bird fell from the air
 今后还会继续
 今后还将由我向你转述
 我见过黄鹤
-2024.9.10去边纹设计.indd 79 我见过黄鹤 2024.9.10去边纹设计.indd 79 079
+
+•
+
 BEDTIME STORY
 The finest story will yield halfway
 to sleep; the calmest
@@ -3210,7 +3546,9 @@ during sleepless nights
 The finest story took place already
 yet it continues from now
 and I shall retell it to you later on
-2024/9/11 8:41:05 2024/9/11 8:41:05
+
+§
+
 泡木耳
 你不知道我有多喜欢木耳
 你没见过
@@ -3231,7 +3569,9 @@ and I shall retell it to you later on
 是我热泪盈眶地抱着熟睡的你
 却终于忍不住
 落在你脸上的泪滴声
-我见过黄鹤 2024.9.10去边纹设计.indd 80 我见过黄鹤 2024.9.10去边纹设计.indd 80 080
+
+•
+
 REHYDRATING WOOD EAR
 MUSHROOMS
 You don’t know how much I like wood ear mushrooms
@@ -3253,7 +3593,9 @@ believing the most beautiful sounds in this world
 are those of my tears falling onto your face
 as an excited me holding a sound-asleep you
 could not hold them back anymore
-2024/9/11 8:41:05 2024/9/11 8:41:05
+
+§
+
 树叶走路的声音
 树叶在空中走动时
 你不一定留心过
@@ -3273,7 +3615,9 @@ could not hold them back anymore
 像一群走投无路的人
 走着走着
 就消逝在了道路尽头
-我见过黄鹤 2024.9.10去边纹设计.indd 81 我见过黄鹤 2024.9.10去边纹设计.indd 81 081
+
+•
+
 THE SOUND OF LEAVES
 WALKING
 When leaves walk in the air
@@ -3294,7 +3638,9 @@ The leaves gather and scatter, scatter and gather
 like a bunch of desperate people
 rushing about
 and then vanishing at the end of the road
-2024/9/11 8:41:05 2024/9/11 8:41:05
+
+§
+
 心里话
 好久没见太阳了
 今天特别想她
@@ -3304,7 +3650,9 @@ and then vanishing at the end of the road
 你现世的模样
 和你不在世时
 我难过的形状
-我见过黄鹤 2024.9.10去边纹设计.indd 82 我见过黄鹤 2024.9.10去边纹设计.indd 82 082
+
+•
+
 FROM THE BOTTOM OF MY
 HEART
 Haven’t seen the sun for quite a while
@@ -3315,7 +3663,9 @@ I have forgotten
 your present look
 and when you are no longer around
 the sad look of myself
-2024/9/11 8:41:05 2024/9/11 8:41:05
+
+§
+
 像样的爱情
 一起看花的两个人或
 两个人一起看花
@@ -3327,7 +3677,9 @@ the sad look of myself
 越看越觉得此生可惜
 这样的爱谁不想要呢
 这样的爱至死不见骨灰
-我见过黄鹤 2024.9.10去边纹设计.indd 83 我见过黄鹤 2024.9.10去边纹设计.indd 83 083
+
+•
+
 HEART ON FIRE
 Two people going to see flowers together and
 a couple seeing flowers together
@@ -3339,7 +3691,9 @@ They would look at each other
 The more they do it the more they feel regret
 Who does not long for such love
 such love that transcends ashes
-2024/9/11 8:41:05 2024/9/11 8:41:05
+
+§
+
 红桦树
 娥嫚沟的尽头有两棵红桦树
 在摆脱了其他树木的纠缠后
@@ -3351,7 +3705,9 @@ such love that transcends ashes
 娥嫚沟的尽头在哪里
 没有人能像红桦树那样
 与天荒地老为伍
-我见过黄鹤 2024.9.10去边纹设计.indd 84 我见过黄鹤 2024.9.10去边纹设计.indd 84 084
+
+•
+
 RED BIRCH
 Deep in Eman valley were two red birches
 Disentangled from the other trees
@@ -3363,7 +3719,9 @@ Nobody, except they, knew
 the depth of the valley
 and nobody could like these two
 stay so close to eternity
-2024/9/11 8:41:05 2024/9/11 8:41:05
+
+§
+
 跳出油锅的鱼
 吃过那么多的鱼，印象最深的
 却是那条没有吃进嘴里的——
@@ -3379,7 +3737,9 @@ stay so close to eternity
 命运在轮回，我对此深信不疑
 我深信油锅并非万能
 煎熬不过是轮回的一部分
-我见过黄鹤 2024.9.10去边纹设计.indd 85 我见过黄鹤 2024.9.10去边纹设计.indd 85 085
+
+•
+
 FISH THAT JUMPED OUT OF
 THE OIL PAN
 Among all the fish I have eaten, the most impressive
@@ -3396,7 +3756,9 @@ vacillating between desire and discontent
 I firmly believe Fate to be reincarnation
 I don’t believe a frying pan is omnipotent
 suffering is but a part of reincarnation
-2024/9/11 8:41:05 2024/9/11 8:41:05
+
+§
+
 汇合
 如果没有风
 玉兰树的叶子永远没有机会
@@ -3413,13 +3775,17 @@ suffering is but a part of reincarnation
 高声谈论着各自的见闻
 如果落叶能听懂他俩的方言
 就不会奇怪造物主的安排
-我见过黄鹤 2024.9.10去边纹设计.indd 86 我见过黄鹤 2024.9.10去边纹设计.indd 86 086
+
+•
+
 两把笤帚在清扫完成之后
 被归并到了蓝色的垃圾桶内
 如果此时我还能入睡
 一定是因为我太孤单了
 已经接受了被人类抛弃的理由
-2024/9/11 8:41:05 2024/9/11 8:41:05
+
+§
+
 MEETING EACH OTHER
 Were it not for the wind
 the leaf of the magnolia tree would never
@@ -3437,7 +3803,9 @@ There would be a moment of quietness when
 they met
 Then as if reunited after a long separation
 they loudly shared what they had seen and heard
-我见过黄鹤 2024.9.10去边纹设计.indd 87 我见过黄鹤 2024.9.10去边纹设计.indd 87 087
+
+•
+
 Were the leaves to understand human dialects
 the leaves would not be surprised by nature’s
 arrangement
@@ -3447,7 +3815,9 @@ Were I still able to fall asleep
 my loneliness must have been so intense
 that I’ve accepted why the world abandoned
 me
-2024/9/11 8:41:05 2024/9/11 8:41:05
+
+§
+
 同类的忧伤
 两个惺惺相惜的男人
 各自拿着一把铲子
@@ -3471,7 +3841,9 @@ me
 来到楼顶平台
 一只空洞的陶盆外沿上兰草茂盛
 盆里放着几株奄奄一息的菜苗
-我见过黄鹤 2024.9.10去边纹设计.indd 88 我见过黄鹤 2024.9.10去边纹设计.indd 88 088
+
+•
+
 他们把袋中土倒进盆内
 轮换着用铲子捣鼓
 从平台尽头望过去
@@ -3482,7 +3854,9 @@ me
 如果有更多的人来到这里
 围绕在这只陶盆旁
 这算不算得上同类的忧伤
-2024/9/11 8:41:05 2024/9/11 8:41:05
+
+§
+
 THE SAME KIND OF
 SADNESS
 Two like-minded men
@@ -3506,7 +3880,9 @@ Three like-minded men
 walked on the burning ground
 and onto a rooftop
 Orchids bloomed on the rim of a clay pot
-我见过黄鹤 2024.9.10去边纹设计.indd 89 我见过黄鹤 2024.9.10去边纹设计.indd 89 089
+
+•
+
 But inside only a few vegetables barely alive
 The men emptied the bag, filled up the pot
 and took turns to break up the rubble
@@ -3519,7 +3895,9 @@ If at that point a fourth man had come by
 if more people had come
 to surround this pot
 would it be counted as the same kind of sadness
-2024/9/11 8:41:05 2024/9/11 8:41:05
+
+§
+
 尺度
 我父亲喜欢用手指拃量树木
 家具、衣服、身高和田畴……
@@ -3543,7 +3921,9 @@ would it be counted as the same kind of sadness
 而我几乎是双手空空地来到了
 没有他们存在的地方
 没有土地，树木，没有庭院
-我见过黄鹤 2024.9.10去边纹设计.indd 90 我见过黄鹤 2024.9.10去边纹设计.indd 90 090
+
+•
+
 我活在被人丈量过的生活中
 常常随手拿起身边的各种尺子
 体味着尺有所长之苦
@@ -3553,7 +3933,9 @@ would it be counted as the same kind of sadness
 在心里丈量过了，不然的话
 为什么总有人在耳边提醒我：
 “不要相信你无法抚摸的生活。”
-2024/9/11 8:41:05 2024/9/11 8:41:05
+
+§
+
 THE SPAN
 My father liked to measure trees with his fingers
 furniture, clothes, human height, and fields…
@@ -3577,7 +3959,9 @@ Even after he became a father his back still
 hunched
 Neither did my nephew believe in the large set
 square
-我见过黄鹤 2024.9.10去边纹设计.indd 91 我见过黄鹤 2024.9.10去边纹设计.indd 91 091
+
+•
+
 He bought a shining tape measure
 to estimate his homestead, his future
 but quickly backed out
@@ -3596,7 +3980,9 @@ already
 done it in his mind; otherwise
 why do I always hear a voice reminding me:
 Do not believe what you cannot touch
-2024/9/11 8:41:05 2024/9/11 8:41:05
+
+§
+
 我见过黄鹤
 现在轮到我讲述
 这里曾经发生过
@@ -3618,7 +4004,9 @@ Do not believe what you cannot touch
 由空濛的天际来传导
 而我不过是在心底
 悄然把方言兑换成了
-我见过黄鹤 2024.9.10去边纹设计.indd 92 我见过黄鹤 2024.9.10去边纹设计.indd 92 092
+
+•
+
 一杯浓烈的和泪酒
 ——饮罢下扬州
 千里不回头——
@@ -3626,7 +4014,9 @@ Do not believe what you cannot touch
 在每一条出口的尽头
 你挥一挥衣袖就接受了
 越来越平缓浑浊的江流
-2024/9/11 8:41:05 2024/9/11 8:41:05
+
+§
+
 093
 I’VE SEEN THE YELLOW
 CRANE
@@ -3657,7 +4047,9 @@ as I hear a shout hovering
 over the end of each exit
 You waved and easily submitted to
 the ever-flattening turbid flow
-我见过黄鹤 2024.9.10去边纹设计.indd 93 我见过黄鹤 2024.9.10去边纹设计.indd 93 2024/9/11 8:41:05 2024/9/11 8:41:05
+
+•
+
 更好的人
 晨起熬粥的人在鸟鸣声中
 喝下粥，他清楚地听见
@@ -3675,7 +4067,9 @@ the ever-flattening turbid flow
 他配得上这样的白日梦
 谁也不会去打搅他
 他也不会去说服谁
-我见过黄鹤 2024.9.10去边纹设计.indd 94 我见过黄鹤 2024.9.10去边纹设计.indd 94 094
+
+•
+
 A BETTER PERSON
 He who got up early to make congee heard birds chirping
 while finishing the breakfast; he heard clearly
@@ -3694,14 +4088,17 @@ much to his chagrin and satisfaction
 He befits such a daydream
 Nobody will disturb him
 Nobody will he try to persuade
-2024/9/11 8:41:05 2024/9/11 8:41:05
+
+§
+
 篇
 五 我们怎么能区分舞蹈
 和跳舞人？
 V. How can we know the
 dancer from the dance?
-我见过黄鹤 2024.9.10去边纹设计.indd 95 我见过黄鹤 2024.9.10去边纹设计.indd 95 2024/9/11 8:41:05 2024/9/11 8:41:05
-096
+
+•096
+
 南瓜长大了
 THE PUMPKIN IS GROWING BIG
 南瓜长大了就会找一个地方蹲下来
@@ -3726,7 +4123,9 @@ Heat waves surging, even insects feel too weary to chirp
 There are no real great changes
 What should ripen ripens, and what should die dies
 Those alive in front of me fill up the hollow inside
-我见过黄鹤 2024.9.10去边纹设计.indd 96 我见过黄鹤 2024.9.10去边纹设计.indd 96 2024/9/11 8:41:05 2024/9/11 8:41:05
+
+•
+
 奔跑的雨
 回头看看那个烧成了灰烬的夏天
 我们也曾被暴雨追赶
@@ -3747,7 +4146,9 @@ Those alive in front of me fill up the hollow inside
 那被暴雨砸中的样子
 像一块滋滋冒气的顽石
 没有燃烧过也没有熄灭过
-我见过黄鹤 2024.9.10去边纹设计.indd 97 我见过黄鹤 2024.9.10去边纹设计.indd 97 097
+
+•
+
 RUNNING RAIN
 Looking back to that burnt up summer
 we were once caught in a rainstorm too
@@ -3768,7 +4169,9 @@ on me the fastest runner. In reminiscences
 I who was hit by the rain was like
 a steaming stone
 neither burnt nor extinguished
-2024/9/11 8:41:06 2024/9/11 8:41:06
+
+§
+
 中午吃什么
 我还没有灶台高的时候
 总是喜欢踮着脚尖
@@ -3783,7 +4186,9 @@ neither burnt nor extinguished
 就在台阶上安静地坐着
 等候家人一个一个进屋
 他们也喜欢问中午吃什么
-我见过黄鹤 2024.9.10去边纹设计.indd 98 我见过黄鹤 2024.9.10去边纹设计.indd 98 098
+
+•
+
 WHAT’S FOR LUNCH
 Before I was tall enough to reach the stovetop
 I liked to stand on tiptoes
@@ -3798,7 +4203,9 @@ After helping my mom set the table
 I would sit quietly on the doorstep
 waiting for the rest of my family to file into the room
 They also liked to ask what’s for lunch
-2024/9/11 8:41:06 2024/9/11 8:41:06
+
+§
+
 099
 捡鸡蛋
 COLLECTING CHICKEN EGGS
@@ -3824,7 +4231,9 @@ I would cross the threshold and latch the door behind me
 though coldness still seeped through the cracks
 I never told my parents
 how wildly my heart pounded at that moment
-我见过黄鹤 2024.9.10去边纹设计.indd 99 我见过黄鹤 2024.9.10去边纹设计.indd 99 2024/9/11 8:41:06 2024/9/11 8:41:06
+
+•
+
 草垛
 我钻进草垛
 在草垛里打洞
@@ -3837,7 +4246,9 @@ how wildly my heart pounded at that moment
 在草垛尽头遇见你
 一手拿着鸡蛋
 一手拿着石头
-我见过黄鹤 2024.9.10去边纹设计.indd 100 我见过黄鹤 2024.9.10去边纹设计.indd 100 100
+
+•
+
 HAYSTACK
 I climbed into the haystack
 burrowed
@@ -3850,7 +4261,9 @@ I was crawling around in the haystack
 until in the other end of it I ran into you
 egg in one hand
 rock in the other
-2024/9/11 8:41:06 2024/9/11 8:41:06
+
+§
+
 摇窝
 一个女人坐在摇窝旁
 用手，用脚
@@ -3868,7 +4281,9 @@ rock in the other
 有人在远方喊她
 她放下毛线活儿直起身来
 摇窝依然在晃动
-我见过黄鹤 2024.9.10去边纹设计.indd 101 我见过黄鹤 2024.9.10去边纹设计.indd 101 101
+
+•
+
 BASSINET
 A woman sat beside the bassinet
 her hand, foot
@@ -3886,7 +4301,9 @@ looking down at me
 Someone far away called her
 She put down her knitting and rose from her seat
 The bassinet remained moving
-2024/9/11 8:41:06 2024/9/11 8:41:06
+
+§
+
 阳光真好
 洗净的衣服拧干后
 要在空中抖开
@@ -3903,7 +4320,9 @@ The bassinet remained moving
 你在那一头咯咯地笑
 我在这一头越拧越起劲
 到现在仍然不肯松手
-我见过黄鹤 2024.9.10去边纹设计.indd 102 我见过黄鹤 2024.9.10去边纹设计.indd 102 102
+
+•
+
 GOOD SUNSHINE
 After washing and wringing
 the clothes should lie flat to air dry
@@ -3920,7 +4339,9 @@ rolling myself, and squeezing hard the laundry
 and you would giggle on the other end
 The longer I rolled the more excited I became
 so much so that I would not let it go even now
-2024/9/11 8:41:06 2024/9/11 8:41:06
+
+§
+
 冬青树
 我在冬青树上睡了一宿
 那年我五岁
@@ -3931,7 +4352,9 @@ so much so that I would not let it go even now
 我们都安静的时候
 只有月亮在天上奔走
 只有妈妈倚着门框在哭
-我见过黄鹤 2024.9.10去边纹设计.indd 103 我见过黄鹤 2024.9.10去边纹设计.indd 103 103
+
+•
+
 THE HOLLY TREE
 I slept overnight in a holly
 That year I was five
@@ -3942,7 +4365,9 @@ When I quieted down, so did they
 When we were all quiet
 only the moon rushed about in the sky
 only my mother wept against the door frame
-2024/9/11 8:41:06 2024/9/11 8:41:06
+
+§
+
 夜晚的习惯
 我至今还保持着
 用热水烫脚的习惯
@@ -3966,7 +4391,9 @@ only my mother wept against the door frame
 不像现在，我总是默默地
 把双脚同时伸进去
 再同时抽出来
-我见过黄鹤 2024.9.10去边纹设计.indd 104 我见过黄鹤 2024.9.10去边纹设计.indd 104 104
+
+•
+
 NIGHT HABIT
 I still keep the habit of
 soaking my feet in warm water
@@ -3990,7 +4417,9 @@ while resting my right on her lap
 Unlike then, I am now used to quietly
 putting both feet into the water
 and drawing them out at the same time
-2024/9/11 8:41:06 2024/9/11 8:41:06
+
+§
+
 后视镜
 在长途班车的后视镜中
 越来越小的黑影
@@ -4010,7 +4439,9 @@ and drawing them out at the same time
 在尘埃中挥舞
 最后又无可奈何放下臂膀
 垂头丧气扑打着衣襟
-我见过黄鹤 2024.9.10去边纹设计.indd 105 我见过黄鹤 2024.9.10去边纹设计.indd 105 105
+
+•
+
 REAR–VIEW MIRROR
 In the rear-view mirror of the long-distance shuttle bus
 the gradually shrinking black dot
@@ -4030,7 +4461,9 @@ that scene of decades ago
 waving in dust
 putting them down helplessly
 and then brushing her lapel dejectedly
-2024/9/11 8:41:06 2024/9/11 8:41:06
+
+§
+
 如果根茎能说话
 如果根茎能说话
 它会先说黑暗，再说光明
@@ -4048,7 +4481,9 @@ and then brushing her lapel dejectedly
 它会说到我小时候曾坐在树下
 拿一把铲子，对着地球
 轻轻地挖
-我见过黄鹤 2024.9.10去边纹设计.indd 106 我见过黄鹤 2024.9.10去边纹设计.indd 106 106
+
+•
+
 IF THE ROOT COULD SPEAK
 If the root could speak
 it would first speak of darkness, and then brightness
@@ -4067,7 +4502,9 @@ If the root continued to speak
 it would recall a little me sitting under a tree
 holding a spade, facing the ground
 gently digging
-2024/9/11 8:41:06 2024/9/11 8:41:06
+
+§
+
 107
 樟脑丸
 MOTHBALLS
@@ -4091,7 +4528,9 @@ My mother was sitting in a paint-stripped
 wooden box folding laundry
 Once finished
 she disappeared into the box
-我见过黄鹤 2024.9.10去边纹设计.indd 107 我见过黄鹤 2024.9.10去边纹设计.indd 107 2024/9/11 8:41:06 2024/9/11 8:41:06
+
+•
+
 有一次
 有一次我决定
 自己动手缝一枚纽扣
@@ -4111,7 +4550,9 @@ she disappeared into the box
 我拿着纽扣在书桌上转动
 母亲在桌前的相框里微笑
 她以为我永远不会服输
-我见过黄鹤 2024.9.10去边纹设计.indd 108 我见过黄鹤 2024.9.10去边纹设计.indd 108 108
+
+•
+
 ONCE
 Once I decided
 to sew a button myself
@@ -4131,7 +4572,9 @@ Once the third button on my shirt fell off
 I turned the button on my desk
 my mother smiling in the portrait above the desk
 She thought I would never admit failing
-2024/9/11 8:41:06 2024/9/11 8:41:06
+
+§
+
 茄子
 能使人发笑的蔬菜似乎只有茄子
 无论是白茄子还是紫茄子
@@ -4147,7 +4590,9 @@ She thought I would never admit failing
 这么多年过去了
 我仍然能在每一张合影照中见到她
 和她希望我成为的样子
-我见过黄鹤 2024.9.10去边纹设计.indd 109 我见过黄鹤 2024.9.10去边纹设计.indd 109 109
+
+•
+
 EGGPLANT
 The only vegetable that can make one laugh is the eggplant
 white or purple
@@ -4163,7 +4608,9 @@ she did not know the sound effect of eggplant
 So many years have passed
 I still see in every picture we took together her
 and me with the look she wanted me to have
-2024/9/11 8:41:06 2024/9/11 8:41:06
+
+§
+
 110
 暮色中
 AT TWILIGHT
@@ -4191,7 +4638,9 @@ forced a smile
 rough hands on his lap
 as if he had been pushed into a photo studio
 a little wronged, and shy
-我见过黄鹤 2024.9.10去边纹设计.indd 110 我见过黄鹤 2024.9.10去边纹设计.indd 110 2024/9/11 8:41:06 2024/9/11 8:41:06
+
+•
+
 草木灰
 草木在灰中的样子
 火焰最清楚
@@ -4206,7 +4655,9 @@ a little wronged, and shy
 原有的小径已然消逝
 我先在雨中埋葬了母亲
 随后又在雪中埋葬了父亲
-我见过黄鹤 2024.9.10去边纹设计.indd 111 我见过黄鹤 2024.9.10去边纹设计.indd 111 111
+
+•
+
 WOOD ASH
 How plants look in ash
 the blaze knows the best
@@ -4221,7 +4672,9 @@ Behind the cottage up on the slope was vast vegetation
 while the original little path was traceless
 I buried first my mother in the rain
 and then my father, under the snow
-2024/9/11 8:41:06 2024/9/11 8:41:06
+
+§
+
 112
 奔丧之路
 ON THE WAY TO FUNERALS
@@ -4247,7 +4700,9 @@ laboring all day on building the road
 and horrified by the wish that
 the road would stay incomplete, or at least as delayed as
 possible
-我见过黄鹤 2024.9.10去边纹设计.indd 112 我见过黄鹤 2024.9.10去边纹设计.indd 112 2024/9/11 8:41:06 2024/9/11 8:41:06
+
+•
+
 祭父诗
 一般来说，树有多高
 它的根须就有多长
@@ -4258,7 +4713,9 @@ possible
 黑暗中的事物越复杂越集中
 父亲挖的树蔸歪靠在树坑旁
 斩断的根须仍然在抽搐
-我见过黄鹤 2024.9.10去边纹设计.indd 113 我见过黄鹤 2024.9.10去边纹设计.indd 113 113
+
+•
+
 IN MEMORY OF MY FATHER
 Generally speaking, the height of a tree
 is proportional to the length of its roots
@@ -4270,7 +4727,9 @@ in the dark, the more complicated appears the more
 concentrated
 The stump my father dug up lay slanted near the hole
 the chopped roots still convulsing
-2024/9/11 8:41:06 2024/9/11 8:41:06
+
+§
+
 114
 每家都有上山的人
 EVERY FAMILY HAS SOMEONE
@@ -4313,7 +4772,9 @@ looking at cars from the foot of the mountain
 stop by, and stir up and leave a dust cloud
 Dust still swirls in the air
 and nobody knows the real look of this world
-我见过黄鹤 2024.9.10去边纹设计.indd 114 我见过黄鹤 2024.9.10去边纹设计.indd 114 2024/9/11 8:41:06 2024/9/11 8:41:06
+
+•
+
 姐姐
 我二姐曾经给我做过一双鞋垫
 纯棉的，手工的，绣花的
@@ -4336,7 +4797,9 @@ and nobody knows the real look of this world
 手里也举着这样一双鞋垫
 也像当年二姐那样
 站在每一条道路的起点
-我见过黄鹤 2024.9.10去边纹设计.indd 115 我见过黄鹤 2024.9.10去边纹设计.indd 115 115
+
+•
+
 SISTER
 My second older sister once made me a pair of shoe
 insoles
@@ -4360,7 +4823,9 @@ I always feel like somebody is calling me from behind
 with a similar pair of insoles in hand
 exactly like my sister once did
 at the start of each road
-2024/9/11 8:41:06 2024/9/11 8:41:06
+
+§
+
 116
 作物的秘密
 SECRET OF CROPS
@@ -4380,7 +4845,9 @@ sometimes like a landlord
 other times like a servant
 Pine trees saw him carrying an axe
 and twigs of chaste trees saw me holding a sickle
-我见过黄鹤 2024.9.10去边纹设计.indd 116 我见过黄鹤 2024.9.10去边纹设计.indd 116 2024/9/11 8:41:06 2024/9/11 8:41:06
+
+•
+
 风吹树叶的声音
 不进我屋子的风只是风声
 如果没有树
@@ -4397,7 +4864,9 @@ and twigs of chaste trees saw me holding a sickle
 如果它停止转动了
 就意味着我出门
 去找我的孪生兄弟去了
-我见过黄鹤 2024.9.10去边纹设计.indd 117 我见过黄鹤 2024.9.10去边纹设计.indd 117 117
+
+•
+
 SOUND OF WIND BLOWING
 LEAVES
 Wind that does not enter my room is merely sound
@@ -4415,7 +4884,9 @@ has been spinning all summer
 If it stops
 it means I have gone
 to find my twin brother
-2024/9/11 8:41:06 2024/9/11 8:41:06
+
+§
+
 交谈
 天空和大地通过雨水来交谈
 说情话时下毛毛雨
@@ -4435,7 +4906,9 @@ to find my twin brother
 当他哭泣时眼泪是最好的
 谈资，再紧张的土壤
 也有松动之时
-我见过黄鹤 2024.9.10去边纹设计.indd 118 我见过黄鹤 2024.9.10去边纹设计.indd 118 118
+
+•
+
 TALK
 The sky and land talk through rain
 they speak of love with a drizzle
@@ -4455,7 +4928,9 @@ and then announces it loudly
 When he cries, his tears make for
 the best talk; even the hardest pressed soil
 can loosen up sometimes
-2024/9/11 8:41:06 2024/9/11 8:41:06
+
+§
+
 在一起
 1986 年我的父亲母亲在黄鹤楼
 留下过一张合影。没想到，
@@ -4476,7 +4951,9 @@ can loosen up sometimes
 死后的距离，以及
 他们与我之间的距离
 在一起的愿望从来不曾这样强烈
-我见过黄鹤 2024.9.10去边纹设计.indd 119 我见过黄鹤 2024.9.10去边纹设计.indd 119 119
+
+•
+
 TOGETHER
 In 1986 at the Yellow Crane Tower my father and
 mother
@@ -4499,7 +4976,9 @@ measuring the distance between them in life
 after their passing, and
 between them and me
 The desire to be together has never been so intense
-2024/9/11 8:41:06 2024/9/11 8:41:06
+
+§
+
 120
 为罗平油菜花而作
 FOR CANOLA FLOWERS IN
@@ -4532,7 +5011,9 @@ Like orphans, the dark oil seeds
 gradually fell through fate’s fingertips
 and I was the one that fell the farthest
 blooming alone, gloomy alone
-我见过黄鹤 2024.9.10去边纹设计.indd 120 我见过黄鹤 2024.9.10去边纹设计.indd 120 2024/9/11 8:41:06 2024/9/11 8:41:06
+
+•
+
 给花旦找墓地
 这是一首迟到的诗
 一首想写却迟迟不敢动笔的诗
@@ -4545,7 +5026,9 @@ blooming alone, gloomy alone
 直到临死你水汪汪的眼睛
 还在看我 , 还在看我
 怎样把没有你的日子过到底
-我见过黄鹤 2024.9.10去边纹设计.indd 121 我见过黄鹤 2024.9.10去边纹设计.indd 121 121
+
+•
+
 FINDING THE RESTING
 PLACE FOR HUA DAN
 This is a belated poem
@@ -4559,7 +5042,9 @@ This is a poem that holds back tears
 Until the last moment your watery eyes
 were still watching me, watching
 how I would live without you
-2024/9/11 8:41:06 2024/9/11 8:41:06
+
+§
+
 大雪进山
 大雪是晚上来的
 早上还没有离开的意思
@@ -4580,7 +5065,9 @@ how I would live without you
 陈旧的亲戚站在屋檐下
 呵出的热气模糊了他
 乐呵呵的脸
-我见过黄鹤 2024.9.10去边纹设计.indd 122 我见过黄鹤 2024.9.10去边纹设计.indd 122 122
+
+•
+
 SNOW IN THE MOUNTAINS
 Snow started during the night
 and refused to let up even into the next day
@@ -4601,7 +5088,9 @@ The yellowish smoke stayed close to the roof of a house
 and our old relative stood under the roof
 hot air from his breathing blurring
 his cheerful face
-2024/9/11 8:41:06 2024/9/11 8:41:06
+
+§
+
 最遥远的雪
 想起雪后的那些晚上
 天空清凉，还有星星
@@ -4621,7 +5110,9 @@ his cheerful face
 最后的雪积在人去屋空的檐下
 每天静静地化一点
 我忍不住朝天边探了探身体
-我见过黄鹤 2024.9.10去边纹设计.indd 123 我见过黄鹤 2024.9.10去边纹设计.indd 123 123
+
+•
+
 THE FARTHEST SNOW
 I am recollecting those nights after the snow
 the sky was clear and cool, and star-dotted
@@ -4641,7 +5132,9 @@ I am thinking of you still not ashore
 The last snow piled under the eaves of your empty house
 melting quietly each day, bit by bit
 I cannot but lean towards the faraway firmament
-2024/9/11 8:41:06 2024/9/11 8:41:06
+
+§
+
 我的梦
 我发现我的梦
 总在同一座房子里面发生
@@ -4662,7 +5155,9 @@ I cannot but lean towards the faraway firmament
 我靠在微微发烫的墙面上
 天空蔚蓝，仔细看
 星光遥远犹如胃中的米粒
-我见过黄鹤 2024.9.10去边纹设计.indd 124 我见过黄鹤 2024.9.10去边纹设计.indd 124 124
+
+•
+
 MY DREAMS
 I find my dreams
 always take place in the same house
@@ -4683,7 +5178,9 @@ as the afternoon sun shone on its yellow ochre wall
 I leaned against the slightly hot surface
 the sky azure, and scrutinized
 the stars as remote as the rice grains in a stomach
-2024/9/11 8:41:06 2024/9/11 8:41:06
+
+§
+
 容我喝口井水
 从水缸到水井的距离
 从前很远，现在更遥远了
@@ -4702,7 +5199,9 @@ the stars as remote as the rice grains in a stomach
 水缸里等候他
 像一只白瓷碗
 反扣在没有桌面的桌子上
-我见过黄鹤 2024.9.10去边纹设计.indd 125 我见过黄鹤 2024.9.10去边纹设计.indd 125 125
+
+•
+
 ALLOW ME TO TAKE A SIP OF
 THE WELL WATER
 From the water vat to the well
@@ -4724,7 +5223,9 @@ bright moon was
 waiting for him in the vat
 very much like a white porcelain bowl
 lying upside down on the surfaceless table
-2024/9/11 8:41:06 2024/9/11 8:41:06
+
+§
+
 一把米
 脱粒机和风斗
 是怎么做到的
@@ -4738,7 +5239,9 @@ lying upside down on the surfaceless table
 学着喂磨
 我学会的歌
 他们早就不再唱和
-我见过黄鹤 2024.9.10去边纹设计.indd 126 我见过黄鹤 2024.9.10去边纹设计.indd 126 126
+
+•
+
 A FISTFUL OF RICE
 How could the threshing and winnowing machines
 make certain
@@ -4752,7 +5255,9 @@ grains in hand, I
 learned to feed grains
 Songs I learned
 they stopped responding to a long time ago
-2024/9/11 8:41:06 2024/9/11 8:41:06
+
+§
+
 127
 在桃林
 AT THE PEACH ORCHARD
@@ -4778,7 +5283,9 @@ I saw more and more strangers
 moved up to the hills and stayed
 Because of the orchard they fancied
 a life of the same breath and branches
-我见过黄鹤 2024.9.10去边纹设计.indd 127 我见过黄鹤 2024.9.10去边纹设计.indd 127 2024/9/11 8:41:06 2024/9/11 8:41:06
+
+•
+
 交换
 拿一枚鸡蛋去交换一枚鸭蛋
 哪一个更划算？
@@ -4799,7 +5306,9 @@ a life of the same breath and branches
 那位从下游来的女孩
 蓬松而卷曲的头发
 被阳光烫伤了的鸭蛋型的脸
-我见过黄鹤 2024.9.10去边纹设计.indd 128 我见过黄鹤 2024.9.10去边纹设计.indd 128 128
+
+•
+
 EXCHANGES
 A chicken egg bartering for a duck egg
 which gets a better deal?
@@ -4820,7 +5329,9 @@ After many years I still remember
 that girl from the lower reaches of the river
 her fluffy and curly hair
 her sunburnt egg-shaped face
-2024/9/11 8:41:06 2024/9/11 8:41:06
+
+§
+
 替我回家的人
 替我回家的人给我带回来
 三样东西——
@@ -4844,7 +5355,9 @@ her sunburnt egg-shaped face
 让捡地衣的母亲想到了我
 她抬头望望飞奔的云朵
 她低头加快了手中的动作
-我见过黄鹤 2024.9.10去边纹设计.indd 129 我见过黄鹤 2024.9.10去边纹设计.indd 129 129
+
+•
+
 HE WHO RETURNED HOME
 FOR ME
 He who returned home for me brought back
@@ -4869,7 +5382,9 @@ Cool wind blowing at the end of day
 reminded my lichen-gathering mother of me
 She looked up and saw clouds traveling fast
 She lowered her head and quickened the hands
-2024/9/11 8:41:06 2024/9/11 8:41:06
+
+§
+
 春日望乡
 犁耙水响的时节
 你回了一趟老家
@@ -4887,7 +5402,9 @@ She lowered her head and quickened the hands
 让你走着走着就感觉到
 已经回家了
 却怎么也找不到家门
-我见过黄鹤 2024.9.10去边纹设计.indd 130 我见过黄鹤 2024.9.10去边纹设计.indd 130 130
+
+•
+
 HOMEWARD THOUGHTS ON A
 SPRING DAY
 During the plowing and harrowing season
@@ -4906,7 +5423,9 @@ but none like the field ridges
 made you feel that step by step
 you had reached home
 yet could not find its gate
-2024/9/11 8:41:06 2024/9/11 8:41:06
+
+§
+
 我还是喜欢你
 明亮的样子
 我还是喜欢你明亮的样子
@@ -4920,7 +5439,9 @@ yet could not find its gate
 我还是喜欢
 那样，那时候
 空气天真，你无所不能
-我见过黄鹤 2024.9.10去边纹设计.indd 131 我见过黄鹤 2024.9.10去边纹设计.indd 131 131
+
+•
+
 I STILL LIKE THE
 DAZZLING YOU
 I still like the dazzling you
@@ -4934,7 +5455,9 @@ or unable to refrain from opening a letter
 I still like
 that; that time
 the air was innocent and you, omnipotent
-2024/9/11 8:41:06 2024/9/11 8:41:06
+
+§
+
 从音乐学院到
 实验中学
 从音乐学院到实验中学
@@ -4953,13 +5476,17 @@ the air was innocent and you, omnipotent
 五点三十三分我加入攒动的人头
 在千百件校服中间
 搜寻这只饭盒的主人
-我见过黄鹤 2024.9.10去边纹设计.indd 132 我见过黄鹤 2024.9.10去边纹设计.indd 132 132
+
+•
+
 我还会捂着温热的盒底
 像一个托钵僧
 站在梧桐树下，夕光越过树梢
 俗世潦草，所谓幸福
 就是用手去触摸一个人的额头
-2024/9/11 8:41:06 2024/9/11 8:41:06
+
+§
+
 133
 FROM THE CONSERVATORY
 TO THE EXPERIMENTAL
@@ -4991,7 +5518,9 @@ Unpolished, the so-called happiness of this
 secular world is
 merely touching the forehead of a person
 with a hand
-我见过黄鹤 2024.9.10去边纹设计.indd 133 我见过黄鹤 2024.9.10去边纹设计.indd 133 2024/9/11 8:41:06 2024/9/11 8:41:06
+
+•
+
 狗年忆狗
 墙壁转角处
 满是花旦的蹭痕
@@ -5013,14 +5542,18 @@ with a hand
 熟悉的足音
 与陌生的世界汇合
 它只能无力地
-我见过黄鹤 2024.9.10去边纹设计.indd 134 我见过黄鹤 2024.9.10去边纹设计.indd 134 134
+
+•
+
 从一个墙角踱到另一个墙角
 它不记得自己在我们不在的
 时候干过什么
 现在我替它记下了
 那长达数年的惯性
 再用一块抹布轻轻拭去
-2024/9/11 8:41:06 2024/9/11 8:41:06
+
+§
+
 135
 REMEMBERING MY DOG IN
 THE YEAR OF THE DOG
@@ -5051,7 +5584,9 @@ I am recording on her behalf
 those years of momentum
 before gently wiping away the marks with a
 cloth
-我见过黄鹤 2024.9.10去边纹设计.indd 135 我见过黄鹤 2024.9.10去边纹设计.indd 135 2024/9/11 8:41:06 2024/9/11 8:41:06
+
+•
+
 深筒胶鞋
 我穿着深筒胶鞋一步路也走不动
 我的下半身陷进了鞋筒
@@ -5068,7 +5603,9 @@ cloth
 早上醒来，我看见那双鞋
 倒扣在台阶上
 在阳光里冒着热气
-我见过黄鹤 2024.9.10去边纹设计.indd 136 我见过黄鹤 2024.9.10去边纹设计.indd 136 136
+
+•
+
 我试着用手去探测鞋筒的深度
 我把两只手臂都留在了潮湿阴暗的地方
 那里有他脚趾抠出的浅窝
@@ -5077,7 +5614,9 @@ cloth
 父亲赤脚走在软和的泥地上
 我还是没有看清他的脚
 但他的脚印到处都有
-2024/9/11 8:41:06 2024/9/11 8:41:06
+
+§
+
 HIGH RUBBER
 RAINBOOTS
 I could barely move in knee-high rubber
@@ -5098,7 +5637,9 @@ though I had never paid attention to Dad’s feet
 When awoke in the morning, I saw his boots
 laying upside down on the steps
 steaming in sunlight
-我见过黄鹤 2024.9.10去边纹设计.indd 137 我见过黄鹤 2024.9.10去边纹设计.indd 137 137
+
+•
+
 I tried to measure the height of the shoes
 only to find both arms reached dark and damp
 places
@@ -5108,7 +5649,9 @@ before it soon disappeared
 Dad walked barefoot on the soft soil
 I still did not see clearly his feet
 but his footprints were everywhere
-2024/9/11 8:41:06 2024/9/11 8:41:06
+
+§
+
 停止生长的脚
 我穿 41 码的鞋子
 40 码找过我
@@ -5131,14 +5674,18 @@ but his footprints were everywhere
 我已经很多年没有赤脚走路了
 我最后一次在岩子河里洗脚
 是在哪一年的隆冬？
-我见过黄鹤 2024.9.10去边纹设计.indd 138 我见过黄鹤 2024.9.10去边纹设计.indd 138 138
+
+•
+
 那一年我的脚已经停止了生长
 我母亲还活着
 我记得她把我的鞋样夹在了
 一摞废弃的高考复习资料中
 此后只有指甲在生长
 只有鞋子在重复着脚的形状
-2024/9/11 8:41:06 2024/9/11 8:41:06
+
+§
+
 139
 FEET THAT STOPPED
 GROWING
@@ -5170,7 +5717,9 @@ in a pile of abandoned study materials for the
 college exam
 After that only my toenails continued to grow
 only my shoes duplicated my feet’s shape
-我见过黄鹤 2024.9.10去边纹设计.indd 139 我见过黄鹤 2024.9.10去边纹设计.indd 139 2024/9/11 8:41:06 2024/9/11 8:41:06
+
+•
+
 在烈日下想象
 一场暴雨
 我父亲蹲在烟叶地里想象着
@@ -5186,13 +5735,17 @@ only my shoes duplicated my feet’s shape
 我的鸡，一群鸡都在竹园里打盹
 穿堂风穿过凉席的时候
 我正要瞌睡，门前晾衣绳上
-我见过黄鹤 2024.9.10去边纹设计.indd 140 我见过黄鹤 2024.9.10去边纹设计.indd 140 140
+
+•
+
 的衣裤突然活蹦乱跳起来
 乌云从西南角飞奔而至
 乌云之下传来敲锣打鼓的声音
 有几滴鼓点落在了我身边
 那只倒扣着的洋瓷盆底
-2024/9/11 8:41:06 2024/9/11 8:41:06
+
+§
+
 141
 IMAGINE A HEAVY
 RAINFALL IN THE
@@ -5223,7 +5776,9 @@ Underneath them came the sounds of drums
 and gongs
 and beside me a few drops beat onto
 that enamel basin laid bottom up
-我见过黄鹤 2024.9.10去边纹设计.indd 141 我见过黄鹤 2024.9.10去边纹设计.indd 141 2024/9/11 8:41:06 2024/9/11 8:41:06
+
+•
+
 拉链与纽扣
 大雁像一排拉链
 从最美的天空飞过
@@ -5240,7 +5795,9 @@ that enamel basin laid bottom up
 那颗暗红的水晶纽扣
 在最好的年纪
 它的坚定与踌躇
-我见过黄鹤 2024.9.10去边纹设计.indd 142 我见过黄鹤 2024.9.10去边纹设计.indd 142 142
+
+•
+
 ZIPPER AND BUTTON
 Like a zipper the wild geese
 flew across the most beautiful sky
@@ -5257,13 +5814,17 @@ and then flustered to refasten
 that deep red crystal button
 at the sweetest age
 with determination and hesitation
-2024/9/11 8:41:06 2024/9/11 8:41:06
+
+§
+
 篇
 六 燕燕于飞，下上其音
 VI. Oh swallows, sing in
 varied note/to each other for
 sweet succor.
-我见过黄鹤 2024.9.10去边纹设计.indd 143 我见过黄鹤 2024.9.10去边纹设计.indd 143 2024/9/11 8:41:07 2024/9/11 8:41:07
+
+•
+
 雪后三天
 雪后三天还没有化完
 太阳红着脸出现
@@ -5279,7 +5840,9 @@ sweet succor.
 西边的炊烟在竹林里缠绕
 一条狗站在路中间
 侧耳听辨碗筷的声音
-我见过黄鹤 2024.9.10去边纹设计.indd 144 我见过黄鹤 2024.9.10去边纹设计.indd 144 144
+
+•
+
 THREE DAYS AFTER THE SNOW
 After three days some snow remains unmelted
 The sun has risen red faced
@@ -5296,7 +5859,9 @@ Cooking smoke is rising from the east
 and from the west swirling around the bamboo grove
 Standing in the middle of the road a dog
 is turning his ears to tell the sounds of bowls and chopsticks
-2024/9/11 8:41:07 2024/9/11 8:41:07
+
+§
+
 星期天的雪
 星期天的雪
 星期一化一点
@@ -5313,7 +5878,9 @@ is turning his ears to tell the sounds of bowls and chopsticks
 人世安静莫过于雪落无声
 你在天光下沉睡
 你梦见了给你温暖的人
-我见过黄鹤 2024.9.10去边纹设计.indd 145 我见过黄鹤 2024.9.10去边纹设计.indd 145 145
+
+•
+
 SUNDAY SNOW
 Sunday snow
 melted a bit on Monday
@@ -5330,7 +5897,9 @@ On Sunday morning heavy snow fully covered the doorway
 The world couldn’t be quieter than the silent snowfall
 You slept deeply in daylight
 and dreamed of the one who gave you warmth
-2024/9/11 8:41:07 2024/9/11 8:41:07
+
+§
+
 冬日速写
 麦地尽头是一块菜地
 菜地过去是一座池塘
@@ -5343,7 +5912,9 @@ and dreamed of the one who gave you warmth
 门前的柳树和槐树在落叶
 树杈举着比树干更黑的鸟巢
 黑白相间的喜鹊在更高的枝丫上叫
-我见过黄鹤 2024.9.10去边纹设计.indd 146 我见过黄鹤 2024.9.10去边纹设计.indd 146 146
+
+•
+
 SKETCH OF A WINTER DAY
 At the end of the wheat field is a vegetable field
 beyond which is a pond
@@ -5356,7 +5927,9 @@ who are not at home for the moment
 In the front yard leaves are falling from the willow and locust trees
 whose branches hold bird nests darker than the tree bark
 on whose even higher twigs black and white magpies are chirping
-2024/9/11 8:41:07 2024/9/11 8:41:07
+
+§
+
 147
 彩虹出现的时候
 WHEN THE RAINBOW APPEARS
@@ -5382,7 +5955,9 @@ Beyond that side of the pine trees were more pine trees
 along with a crowd of people standing under the rainbow arc
 They leaned back their heads
 and behind them their livestock followed suit
-我见过黄鹤 2024.9.10去边纹设计.indd 147 我见过黄鹤 2024.9.10去边纹设计.indd 147 2024/9/11 8:41:07 2024/9/11 8:41:07
+
+•
+
 旧时光
 埋头吃草的牛
 吃着吃着就翻过了
@@ -5395,7 +5970,9 @@ and behind them their livestock followed suit
 远去的牛铃声在远去
 远去的呼唤声
 却越来越清晰
-我见过黄鹤 2024.9.10去边纹设计.indd 148 我见过黄鹤 2024.9.10去边纹设计.indd 148 148
+
+•
+
 OLD DAYS
 Head bent the cow grazed on grass
 While it grazed it also went around
@@ -5408,7 +5985,9 @@ Dusk already fell
 The cowbell chimed and faded far away
 yet the distant calls
 became clearer and clearer
-2024/9/11 8:41:07 2024/9/11 8:41:07
+
+§
+
 春分十三行
 我和我的老狗并排走
 在正午的风中
@@ -5423,7 +6002,9 @@ became clearer and clearer
 我和我的老狗一直会走到墙根下
 它撒尿的时候
 我望着正在爬墙的茑萝
-我见过黄鹤 2024.9.10去边纹设计.indd 149 我见过黄鹤 2024.9.10去边纹设计.indd 149 149
+
+•
+
 THIRTEEN LINES FOR
 SPRING EQUINOX
 I walk side by side with my old dog
@@ -5439,7 +6020,9 @@ and leaves of this year are growing in the wind
 My dog and I will walk all the way to the foot of the wall
 When she pees
 I will be examining the creeping cypress vines
-2024/9/11 8:41:07 2024/9/11 8:41:07
+
+§
+
 树上的爱情
 桃子看着桃子
 看着桃子
@@ -5456,7 +6039,9 @@ I will be examining the creeping cypress vines
 直到桃核裂开
 他们的爱
 因无人打搅而周而复始
-我见过黄鹤 2024.9.10去边纹设计.indd 150 我见过黄鹤 2024.9.10去边纹设计.indd 150 150
+
+•
+
 LOVE ON THE TREE
 One peach looks at another
 looks at another
@@ -5473,7 +6058,9 @@ One peach still looks at another
 until the pit bursts
 Their love
 without disturbance perpetuates itself
-2024/9/11 8:41:07 2024/9/11 8:41:07
+
+§
+
 仿《枕草子》
 鸟鸣是春天的好听，尤其是
 第二场春雨后
@@ -5489,7 +6076,9 @@ without disturbance perpetuates itself
 那些还没有来得及掉落的叶子
 哀求着的生命
 是很有意味的
-我见过黄鹤 2024.9.10去边纹设计.indd 151 我见过黄鹤 2024.9.10去边纹设计.indd 151 151
+
+•
+
 IN THE STYLE OF
 THE PILLOW BOOK
 Birds chirp the best in spring, especially
@@ -5507,7 +6096,9 @@ tender branches are still intriguing
 and those leaves about to fall
 like pleading lives
 are very fascinating
-2024/9/11 8:41:07 2024/9/11 8:41:07
+
+§
+
 152
 无题
 UNTITLED
@@ -5518,8 +6109,9 @@ The flower-like butterfly lands on a flower that
 resembles a butterfly
 When the wind blows, the butterfly stays motionless
 When the wind lets up, the butterfly flaps its wings
-我见过黄鹤 2024.9.10去边纹设计.indd 152 我见过黄鹤 2024.9.10去边纹设计.indd 152 2024/9/11 8:41:07 2024/9/11 8:41:07
-153
+
+•153
+
 无题
 UNTITLED
 摸过的耳垂会记得你的手指
@@ -5541,7 +6133,9 @@ and this is your life, you will feel a gust of wind
 passing through your trousers
 and a desire crossing mountains and rivers
 to travel back and forth on the dead-end highways
-我见过黄鹤 2024.9.10去边纹设计.indd 153 我见过黄鹤 2024.9.10去边纹设计.indd 153 2024/9/11 8:41:07 2024/9/11 8:41:07
+
+•
+
 无题
 有些梦只能停留在梦中
 既无兑现的可能
@@ -5553,7 +6147,9 @@ to travel back and forth on the dead-end highways
 一如乱石堆满床头
 你在乱坟岗上见过的星光
 其实是这些梦的磷火
-我见过黄鹤 2024.9.10去边纹设计.indd 154 我见过黄鹤 2024.9.10去边纹设计.indd 154 154
+
+•
+
 UNTITLED
 Some dreams should stay in dreams
 neither can they become true
@@ -5565,7 +6161,9 @@ If not these dreams
 will be like stones piled at bedside
 and the starlight you see at the unmarked burial sites
 are merely the will-o'-the-wisp of these dreams
-2024/9/11 8:41:07 2024/9/11 8:41:07
+
+§
+
 无题
 年纪大了梦想就会变小
 当我意识到
@@ -5581,7 +6179,9 @@ are merely the will-o'-the-wisp of these dreams
 寒风熨着苍茫的人境
 我几乎就要度过
 这意犹未尽的一生
-我见过黄鹤 2024.9.10去边纹设计.indd 155 我见过黄鹤 2024.9.10去边纹设计.indd 155 155
+
+•
+
 UNTITLED
 The older we get the smaller our dreams become
 If I realize
@@ -5598,7 +6198,9 @@ winter
 and wind chilling the vast human world
 then I am almost done with
 this tapering life
-2024/9/11 8:41:07 2024/9/11 8:41:07
+
+§
+
 夜钓记
 ——给我的兄弟王琳，
 兼致方延伟
@@ -5615,7 +6217,9 @@ this tapering life
 在上游浪花里的那些日子
 水在河里几乎没有费力
 为什么却让人感觉筋疲力尽
-我见过黄鹤 2024.9.10去边纹设计.indd 156 我见过黄鹤 2024.9.10去边纹设计.indd 156 156
+
+•
+
 NIGHT FISHING
 —
  To My Brother Wang Lin, As Well As
@@ -5633,7 +6237,9 @@ and contemplate why
 in the days when we were swimming upstream
 the water in the river was flowing effortlessly
 but we felt exhausted
-2024/9/11 8:41:07 2024/9/11 8:41:07
+
+§
+
 我的土豆树
 ——给易羊
 每年春天我都会
@@ -5652,7 +6258,9 @@ but we felt exhausted
 我们坐在树下
 谈一谈消逝
 谈一谈久别重逢
-我见过黄鹤 2024.9.10去边纹设计.indd 157 我见过黄鹤 2024.9.10去边纹设计.indd 157 157
+
+•
+
 MY POTATO “TREE”
 —To My Friend Yi Yang
 Every spring I would
@@ -5671,7 +6279,9 @@ and will continue to grow next year
 Sitting under the tree we shall
 talk about disappearance
 talk about reunion after a long separation
-2024/9/11 8:41:07 2024/9/11 8:41:07
+
+§
+
 地球上的地方
 ——给印
 乘两班飞机再转
@@ -5686,7 +6296,9 @@ talk about reunion after a long separation
 那么多的树木在森林中安息
 你走在斑驳的林间
 踩着阔叶林遇见了针叶林
-我见过黄鹤 2024.9.10去边纹设计.indd 158 我见过黄鹤 2024.9.10去边纹设计.indd 158 158
+
+•
+
 PLACES ON EARTH
 —
 To Yin
@@ -5703,7 +6315,9 @@ and your next pursuit is tranquility—
 So many trees rest in peace in the forest
 In the dappled forests you walk
 from the broadleaf to the coniferous
-2024/9/11 8:41:07 2024/9/11 8:41:07
+
+§
+
 亲爱的弟弟
 ——致叶舟
 从来就不存在穿肠而过的酒肉
@@ -5718,7 +6332,9 @@ from the broadleaf to the coniferous
 像亲爱的弟弟
 身边总多出一只酒杯
 为他亲爱的祖国留着
-我见过黄鹤 2024.9.10去边纹设计.indd 159 我见过黄鹤 2024.9.10去边纹设计.indd 159 159
+
+•
+
 DEAR LITTLE BROTHER
 —To Ye Zhou
 There has never been meat eating that does not bear
@@ -5734,7 +6350,9 @@ but each time we go there another one comes into being
 like a dear little brother
 who always keeps an extra drinking glass
 for his dear motherland
-2024/9/11 8:41:07 2024/9/11 8:41:07
+
+§
+
 答枕边人，
 兼致新年
 唯一的奇迹是身逢盛世
@@ -5757,7 +6375,9 @@ for his dear motherland
 而我们被时光易容过的脸
 变化再大，依然保留了
 羞怯，和怜惜
-我见过黄鹤 2024.9.10去边纹设计.indd 160 我见过黄鹤 2024.9.10去边纹设计.indd 160 160
+
+•
+
 IN RESPONSE TO MY LOVE,
 TO THE NEW YEAR AS WELL
 The only miracle is to come upon the golden age
@@ -5780,7 +6400,9 @@ like the return of a child after a long separation
 Our face much transformed by time
 no matter how drastic the changes, maintains
 its shininess, and tenderness
-2024/9/11 8:41:07 2024/9/11 8:41:07
+
+§
+
 161
 催咚催
 CUI DONG CUI,
@@ -5815,8 +6437,9 @@ hearing the fan falling from your hand
 and seeing the ox that gets to live another day
 batting in darkness its
 charming double-eyelid eyes and eyelashes
-我见过黄鹤 2024.9.10去边纹设计.indd 161 我见过黄鹤 2024.9.10去边纹设计.indd 161 2024/9/11 8:41:07 2024/9/11 8:41:07
-162
+
+•162
+
 咏春调
 TO THE TUNE OF SPRING
 我母亲从来没有穿过花衣服
@@ -5847,7 +6470,9 @@ I would recall that afternoon
 My poor mother on my back
 flowers blooming along the road
 I wept while walking
-我见过黄鹤 2024.9.10去边纹设计.indd 162 我见过黄鹤 2024.9.10去边纹设计.indd 162 2024/9/11 8:41:07 2024/9/11 8:41:07
+
+•
+
 有些花不开也罢
 “无花果的叶子就是无花果的花。”
 ——我忘了这是毛子还是东林说的
@@ -5859,7 +6484,9 @@ I wept while walking
 却又感觉特别虚弱——因为
 我也像一颗隐藏在花托中的果子
 你们看到的我都是我的结果
-我见过黄鹤 2024.9.10去边纹设计.indd 163 我见过黄鹤 2024.9.10去边纹设计.indd 163 163
+
+•
+
 IT’S FINE IF SOME FLOWERS
 DO NOT BLOOM
 “The leaves of the fig plant are its flowers.”
@@ -5873,7 +6500,9 @@ Now, I seem to hold truth in my hand
 but also feel extremely weak—because
 like the flower hidden in a receptacle
 what you see is merely the fruit of me
-2024/9/11 8:41:07 2024/9/11 8:41:07
+
+§
+
 164
 终结者
 你之后我不会再爱别人。不会了，再也不会了
@@ -5886,8 +6515,9 @@ what you see is merely the fruit of me
 多少儿女绕膝，多少星宿云集
 而河水喧哗，死去的浪花将再度复活
 死后如我者，在地底，也将踝骨轻轻挪动
-我见过黄鹤 2024.9.10去边纹设计.indd 164 我见过黄鹤 2024.9.10去边纹设计.indd 164 2024/9/11 8:41:07 2024/9/11 8:41:07
-165
+
+•165
+
 TERMINATOR
 After you I shall love no one. No, not another
 After you I shall spend my later years in peace, regaining equanimity
@@ -5899,8 +6529,9 @@ After me you shall become the woman of all women
 blessed with children, so many like stars gathering
 and the stream shouts, and the vanished waves shall resurrect
 As dead as I am, even underground, I shall turn the ankle gently
-我见过黄鹤 2024.9.10去边纹设计.indd 165 我见过黄鹤 2024.9.10去边纹设计.indd 165 2024/9/11 8:41:07 2024/9/11 8:41:07
-166
+
+•166
+
 与父亲同眠
 夜晚如此漆黑。我们守在这口铁锅中
 像还没有来得及被母亲洗干净的两支筷子
@@ -5920,8 +6551,9 @@ As dead as I am, even underground, I shall turn the ankle gently
 我说父亲，让我再陪你一觉吧
 话音刚落，就倒在了你腾给我的
 空白中
-我见过黄鹤 2024.9.10去边纹设计.indd 166 我见过黄鹤 2024.9.10去边纹设计.indd 166 2024/9/11 8:41:07 2024/9/11 8:41:07
-167
+
+•167
+
 SLEEPING WITH MY FATHER
 The night was so dark. We held vigils near the metal wok
 like two chopsticks that Mother did not get to wash
@@ -5941,8 +6573,9 @@ as deeply as you used to. We kept up the vigil till early morning
 I said, father, let me lie down with you one more time
 At these words, I fell down into the place
 you freed up for me
-我见过黄鹤 2024.9.10去边纹设计.indd 167 我见过黄鹤 2024.9.10去边纹设计.indd 167 2024/9/11 8:41:07 2024/9/11 8:41:07
-168
+
+•168
+
 我小心触摸着你瘦骨嶙峋的大脚
 从你的脚趾上移，依次是你的脚踝和膝盖
 最后又返回到自己的胸口
@@ -5955,8 +6588,9 @@ you freed up for me
 从蒙着塑料薄膜的窗口一晃而过
 再也没有你熟悉的，再也没有我陌生的
 刮锅底的声音
-我见过黄鹤 2024.9.10去边纹设计.indd 168 我见过黄鹤 2024.9.10去边纹设计.indd 168 2024/9/11 8:41:07 2024/9/11 8:41:07
-169
+
+•169
+
 I carefully caressed your big scrawny foot
 from the toe upward, to your ankle and then knee
 only to return to my own chest
@@ -5969,7 +6603,9 @@ you were already sitting up against the headboard. So many dark apparitions
 glided past the plastic film-covered window
 yet no more what’s familiar to you but strange to me
 the sound of wok scraping
-我见过黄鹤 2024.9.10去边纹设计.indd 169 我见过黄鹤 2024.9.10去边纹设计.indd 169 2024/9/11 8:41:07 2024/9/11 8:41:07
+
+•
+
 信条
 1
 蒲公英不能长在悬崖上
@@ -5994,7 +6630,9 @@ the sound of wok scraping
 醉意中不停地用手指抠
 那几个红字：“为人民服务”
 越来越亮的月亮
-我见过黄鹤 2024.9.10去边纹设计.indd 170 我见过黄鹤 2024.9.10去边纹设计.indd 170 170
+
+•
+
 要从背后照耀
 江面和煤堆
 八百里的路上只有我俩
@@ -6015,7 +6653,9 @@ the sound of wok scraping
 我时而僵直时而弯曲
 从冰面上过了河
 此后再没有回去过
-2024/9/11 8:41:07 2024/9/11 8:41:07
+
+§
+
 CREED
 1
 Dandelion cannot grow on cliffs
@@ -6041,7 +6681,9 @@ On the table sits an enamel bowl
 inside of which are peanuts
 The sailor must drink liquor with an enamel
 mug
-我见过黄鹤 2024.9.10去边纹设计.indd 171 我见过黄鹤 2024.9.10去边纹设计.indd 171 171
+
+•
+
 intoxicated his fingers scratching
 the red words on the mug: Serve the people
 The ever-brighter moon
@@ -6066,7 +6708,9 @@ but bent branches sway along the river
 I am stiff in one minute and bent in another
 After crossing the river
 I have never returned
-2024/9/11 8:41:07 2024/9/11 8:41:07
+
+§
+
 4
 草药在熬过三遍之后
 就会淡而无味
@@ -6092,7 +6736,9 @@ I have never returned
 高压线上密密麻麻的鸟儿
 有时会像一场骤雨
 猛然洒向麦地
-我见过黄鹤 2024.9.10去边纹设计.indd 172 我见过黄鹤 2024.9.10去边纹设计.indd 172 172
+
+•
+
 一个从外地打工回来的人
 在公路旁下了车，踌躇着
 远远望着位于山坳里的家
@@ -6114,7 +6760,9 @@ I have never returned
 落在了放满刀具的案板上
 那是我见过的
 最敞亮的乡村生活
-2024/9/11 8:41:07 2024/9/11 8:41:07
+
+§
+
 4
 After three rounds medicinal herbal tea would
 taste bland
@@ -6142,7 +6790,9 @@ could also be awakened by crows
 The birds huddling closely on the powerline
 sometimes would suddenly like a downpour
 thrust themselves towards the wheat fields
-我见过黄鹤 2024.9.10去边纹设计.indd 173 我见过黄鹤 2024.9.10去边纹设计.indd 173 173
+
+•
+
 A man returning from his migrant work
 got off the bus by the roadside; hesitatingly
 he gazed at his family’s house in the faraway
@@ -6170,7 +6820,9 @@ A paper plane flew past the butcher
 and landed on the chopping board full of knives
 That’s what I’ve experienced as
 the shiniest countryside life
-2024/9/11 8:41:07 2024/9/11 8:41:07
+
+§
+
 7
 河流在等待结冰的季节
 两岸的麦地绿油油的
@@ -6191,15 +6843,18 @@ the shiniest countryside life
 爬到父亲的肩头
 去了我能看见的地方
 又去了他们看不见的地方
-我见过黄鹤 2024.9.10去边纹设计.indd 174 我见过黄鹤 2024.9.10去边纹设计.indd 174 174
-9
+
+•9
+
 秋裤一旦穿上了就不容易脱下
 酒后回到床头在黑暗中脱衣服
 静电打得你龇牙咧嘴
 却照不明她的面容
 明天我就要去南方了
 穿什么和怎么穿还没有弄清楚
-2024/9/11 8:41:07 2024/9/11 8:41:07
+
+§
+
 175
 7
 When the river was waiting for the icy
@@ -6233,8 +6888,9 @@ Look at me crawling from my mother’s chest
 to my father’s shoulders
 to places I could see
 and then to places they could not see
-我见过黄鹤 2024.9.10去边纹设计.indd 175 我见过黄鹤 2024.9.10去边纹设计.indd 175 2024/9/11 8:41:07 2024/9/11 8:41:07
-176
+
+•176
+
 动物之心
 ——给顶儿
 再过几天就是你十六岁的生日
@@ -6256,8 +6912,9 @@ and then to places they could not see
 终有一天，你也会用恨的方式表达爱意
 而这一切
 缘于我们都有一颗动物之心
-我见过黄鹤 2024.9.10去边纹设计.indd 176 我见过黄鹤 2024.9.10去边纹设计.indd 176 2024/9/11 8:41:07 2024/9/11 8:41:07
-177
+
+•177
+
 HEART OF AN ANIMAL
 —To My Daughter Ding Er
 In a few days you will turn sixteen
@@ -6279,7 +6936,9 @@ Dear daughter
 eventually, you will use hate to convey love
 and all these are because
 we have the heart of an animal
-我见过黄鹤 2024.9.10去边纹设计.indd 177 我见过黄鹤 2024.9.10去边纹设计.indd 177 2024/9/11 8:41:07 2024/9/11 8:41:07
+
+•
+
 完整的彩虹
 完整的彩虹只在纸上出现过
 我有纸，你有蜡笔
@@ -6295,7 +6954,9 @@ we have the heart of an animal
 天边传来一声惊呼
 你危险又安然度过了
 又一个完整的夏天
-我见过黄鹤 2024.9.10去边纹设计.indd 178 我见过黄鹤 2024.9.10去边纹设计.indd 178 178
+
+•
+
 THE PERFECT RAINBOW
 The perfect rainbow exists only on paper
 I have paper, and you have crayons
@@ -6311,12 +6972,16 @@ the sun lighting up the end of your thick hair
 and from the horizon rolling in a loud exclamation
 You dangerously yet safely pass
 another perfect summer
-2024/9/11 8:41:07 2024/9/11 8:41:07
+
+§
+
 篇
 七 一个人本身就是一座
 城市
 VII. A man in himself is a city.
-我见过黄鹤 2024.9.10去边纹设计.indd 179 我见过黄鹤 2024.9.10去边纹设计.indd 179 2024/9/11 8:41:07 2024/9/11 8:41:07
+
+•
+
 张公解梦录
 梦见牙齿掉了
 意味着
@@ -6327,7 +6992,9 @@ VII. A man in himself is a city.
 你呀你呀你呀
 梦见我都这样了
 你居然还是那样子
-我见过黄鹤 2024.9.10去边纹设计.indd 180 我见过黄鹤 2024.9.10去边纹设计.indd 180 180
+
+•
+
 ZHANG’S
 INTERPRETATION OF
 DREAMS
@@ -6340,7 +7007,9 @@ kiss me
 it’s you, you, you…
 In dreams I am already like this
 yet you somehow remain what you were
-2024/9/11 8:41:07 2024/9/11 8:41:07
+
+§
+
 黄山松
 从黄山上下来两年后
 我又一次想起了
@@ -6360,7 +7029,9 @@ yet you somehow remain what you were
 遗嘱。现在我想清楚了：
 “那些生活在悬崖边的
 肥美的松菌我还没有吃够。”
-我见过黄鹤 2024.9.10去边纹设计.indd 181 我见过黄鹤 2024.9.10去边纹设计.indd 181 181
+
+•
+
 PINE TREES ON MOUNT
 HUANGSHAN
 Two years after climbing Mount Huangshan
@@ -6381,7 +7052,9 @@ By that time I had not come up with a proper
 will. Now I have thought it through
 Those palatable pine mushrooms near the precipices
 I have not had enough of them
-2024/9/11 8:41:07 2024/9/11 8:41:07
+
+§
+
 182
 深喉
 DEEP DESIRE
@@ -6415,7 +7088,9 @@ Well into my middle age I still think of
 that gentle finger
 eager
 also dabbled into the deepest desire
-我见过黄鹤 2024.9.10去边纹设计.indd 182 我见过黄鹤 2024.9.10去边纹设计.indd 182 2024/9/11 8:41:07 2024/9/11 8:41:07
+
+•
+
 抹香鲸在睡觉
 我第一次看见抹香鲸在睡觉
 一根千年古木倒插
@@ -6431,7 +7106,9 @@ also dabbled into the deepest desire
 漆黑的身躯
 这透明的黑暗
 让整座大海忽远忽近
-我见过黄鹤 2024.9.10去边纹设计.indd 183 我见过黄鹤 2024.9.10去边纹设计.indd 183 183
+
+•
+
 THE SPERM WHALE IS
 SLEEPING
 For the first time I saw a sperm whale sleeping
@@ -6448,7 +7125,9 @@ safeguarding the creature’s
 pitch-dark body
 This transparent darkness
 makes the ocean far and near
-2024/9/11 8:41:07 2024/9/11 8:41:07
+
+§
+
 掰手腕
 每一张台面上都有
 一对掰手腕的人
@@ -6461,7 +7140,9 @@ makes the ocean far and near
 拉开了拔河的架势
 其实是为了
 把自己送入对方的怀抱
-我见过黄鹤 2024.9.10去边纹设计.indd 184 我见过黄鹤 2024.9.10去边纹设计.indd 184 184
+
+•
+
 ARM WRESTLING
 At each table sat
 a pair of arm wrestlers
@@ -6474,7 +7155,9 @@ It remains like that—We
 assume a tug-of-war position
 for the actual purpose of
 surrendering ourselves to our opponent
-2024/9/11 8:41:07 2024/9/11 8:41:07
+
+§
+
 老人的力量
 在夏日的都司湖畔
 层层叠叠的树荫下
@@ -6496,7 +7179,9 @@ surrendering ourselves to our opponent
 我已经被风吹成了人形树
 我的枝丫就分散在他，她
 与他们之中
-我见过黄鹤 2024.9.10去边纹设计.indd 185 我见过黄鹤 2024.9.10去边纹设计.indd 185 185
+
+•
+
 POWER OF THE OLD
 Summertime at Dusi Lake
 in layers of tree shade
@@ -6518,7 +7203,9 @@ be able to spot the former me who by now
 has already been blown into a man-like tree
 its branches spreading in him, her,
 and them
-2024/9/11 8:41:08 2024/9/11 8:41:08
+
+§
+
 风的意思
 立秋以后风还没有进屋的意思
 父亲打开门窗却没有纳凉的意思
@@ -6530,7 +7217,9 @@ and them
 热浪涂抹在你赤裸的肩胛上
 汗珠如壁虎蹑手蹑脚
 却没有到达那里的意思
-我见过黄鹤 2024.9.10去边纹设计.indd 186 我见过黄鹤 2024.9.10去边纹设计.indd 186 186
+
+•
+
 THE INTENT OF THE WIND
 After Start of Autumn wind still showed no intent to enter
 the house
@@ -6546,7 +7235,9 @@ Nonetheless I could feel air moving
 Heat waves seeping through your bare shoulder blades
 sweat crawled, like a gecko
 but did not intend to reach there
-2024/9/11 8:41:08 2024/9/11 8:41:08
+
+§
+
 松林内外
 松鼠把松果埋在了
 它自己也找不着的地方
@@ -6567,7 +7258,9 @@ but did not intend to reach there
 它想大步流星
 至今我还记得那一缕缕松香
 欢快的嘶鸣
-我见过黄鹤 2024.9.10去边纹设计.indd 187 我见过黄鹤 2024.9.10去边纹设计.indd 187 187
+
+•
+
 INSIDE AND OUT OF A PINE
 FOREST
 A squirrel buried pinecones
@@ -6590,7 +7283,9 @@ eager to escape from fate
 and walk in big strides
 Now I still remember those wisps of resin scent
 and cheerful frolics
-2024/9/11 8:41:08 2024/9/11 8:41:08
+
+§
+
 一种感觉
 把一座水塘的水放干
 里面并不见得有鱼
@@ -6604,7 +7299,9 @@ and cheerful frolics
 我在乎这种两手空空的感觉
 仿佛抓住了
 仿佛已然放弃
-我见过黄鹤 2024.9.10去边纹设计.indd 188 我见过黄鹤 2024.9.10去边纹设计.indd 188 188
+
+•
+
 ONE KIND OF FEELING
 Draining a pond
 does not necessarily mean a catch
@@ -6618,7 +7315,9 @@ my fingers remained half bent
 I care much about this emptyhanded feeling
 as if I had made it
 as if I had let it go
-2024/9/11 8:41:08 2024/9/11 8:41:08
+
+§
+
 春天来人
 出门遇雨也许不是坏事
 有闲情想想去年此时
@@ -6633,7 +7332,9 @@ as if I had let it go
 有人穿过雨帘走到跟前
 甩一甩头发露出了
 一张半生半熟的脸
-我见过黄鹤 2024.9.10去边纹设计.indd 189 我见过黄鹤 2024.9.10去边纹设计.indd 189 189
+
+•
+
 SOMEONE COMES IN SPRING
 Perhaps it’s not so bad to walk into rain
 You have the leisure to recall this moment of last year
@@ -6648,7 +7349,9 @@ Against faraway mountains, in pant legs empty
 someone will walk towards you through the curtain of rain
 shaking hair from side to side to reveal
 a face familiar and foreign
-2024/9/11 8:41:08 2024/9/11 8:41:08
+
+§
+
 油炸荷花
 把新鲜的荷花一瓣
 一瓣撕下来
@@ -6661,7 +7364,9 @@ a face familiar and foreign
 油锅沸腾，你看
 滚烫的油水
 多么安静
-我见过黄鹤 2024.9.10去边纹设计.indd 190 我见过黄鹤 2024.9.10去边纹设计.indd 190 190
+
+•
+
 FRIED LOTUS FLOWERS
 Tearing off fresh lotus flowers, petal
 by petal
@@ -6674,7 +7379,9 @@ the millers continue to mill flour
 and the oil is sizzling. Lo and behold
 the boiling oil looks
 so quiet
-2024/9/11 8:41:08 2024/9/11 8:41:08
+
+§
+
 形色
 我下载了一个软件
 让它替我辨认
@@ -6689,7 +7396,9 @@ so quiet
 多么好听的名字
 就像我想你的时候你不是你
 就像我想你的时候我不是自己
-我见过黄鹤 2024.9.10去边纹设计.indd 191 我见过黄鹤 2024.9.10去边纹设计.indd 191 191
+
+•
+
 FORMS
 I downloaded an app
 to help me identify
@@ -6704,7 +7413,9 @@ Wow! Bird of paradise
 What a beautiful name
 Just like you are not you when I miss you
 nor am I myself at that moment
-2024/9/11 8:41:08 2024/9/11 8:41:08
+
+§
+
 192
 和婴儿说话的人
 ONE WHO TALKS TO A BABY
@@ -6728,7 +7439,9 @@ The world I loved was already pretty small
 by then it shrank to that embrace
 I watched longingly from outside the embrace
 I cooed and babbled inside it
-我见过黄鹤 2024.9.10去边纹设计.indd 192 我见过黄鹤 2024.9.10去边纹设计.indd 192 2024/9/11 8:41:08 2024/9/11 8:41:08
+
+•
+
 你以为呢
 蕙兰开了一月还是谢了
 我把凋落的花瓣捡起来
@@ -6742,7 +7455,9 @@ I cooed and babbled inside it
 阳光照著绿油油的蒜苗
 生也好看
 死也不错
-我见过黄鹤 2024.9.10去边纹设计.indd 193 我见过黄鹤 2024.9.10去边纹设计.indd 193 193
+
+•
+
 WHAT DO YOU SUPPOSE IT TO
 BE?
 The boat orchids wilted after blooming for a month
@@ -6757,7 +7472,9 @@ I buried it in a spare flower pot
 The sun shines on the green sprout
 It looks good alive
 It’s also good after life
-2024/9/11 8:41:08 2024/9/11 8:41:08
+
+§
+
 数花瓣
 蔷薇的花瓣是恒定的
 如果此刻你在蔷薇身边
@@ -6777,7 +7494,9 @@ It’s also good after life
 忍受了我的絮语
 她很难想象这世上的美好
 居然都大同小异
-我见过黄鹤 2024.9.10去边纹设计.indd 194 我见过黄鹤 2024.9.10去边纹设计.indd 194 194
+
+•
+
 COUNTING PETALS
 The number of rose petals is constant
 If you are near a rose
@@ -6797,7 +7516,9 @@ The rose bud purses her lips
 tolerating my chattering
 She cannot believe wonderful things
 are actually alike
-2024/9/11 8:41:08 2024/9/11 8:41:08
+
+§
+
 在蒸锅旁
 把蟹腿塞进蒸锅
 把牢牢抓紧锅沿的蟹腿
@@ -6811,7 +7532,9 @@ are actually alike
 当它们慢慢放下来
 我也渐渐适应了
 用不幸养育幸福
-我见过黄鹤 2024.9.10去边纹设计.indd 195 我见过黄鹤 2024.9.10去边纹设计.indd 195 195
+
+•
+
 BY THE STEAMER
 I stuffed all the crab legs into the steamer
 For those that held tightly to the steamer’s rim
@@ -6825,7 +7548,9 @@ rising high in the steam
 When the claws slowly lowered
 I also gradually got used to
 nourishing the happy with the unfortunate
-2024/9/11 8:41:08 2024/9/11 8:41:08
+
+§
+
 196
 带绿叶的金钱橘
 THE KUMQUAT WITH
@@ -6850,7 +7575,9 @@ the stranger fruit picker
 standing on a ladder
 below the sky
 and so considerate
-我见过黄鹤 2024.9.10去边纹设计.indd 196 我见过黄鹤 2024.9.10去边纹设计.indd 196 2024/9/11 8:41:08 2024/9/11 8:41:08
+
+•
+
 一盏明灯
 食素的人内心中有一盏明灯
 当你对我说：眼前这些
@@ -6864,7 +7591,9 @@ and so considerate
 正在五台山下，油松林里
 残雪覆盖着寺院的屋脊
 我拿残躯在大地上蹭来蹭去
-我见过黄鹤 2024.9.10去边纹设计.indd 197 我见过黄鹤 2024.9.10去边纹设计.indd 197 197
+
+•
+
 THE BRIGHT LIGHT
 Vegetarians have an inner bright light
 When you told me: All these
@@ -6878,7 +7607,9 @@ my cows, horses and humble dogs
 at the foot of Mount Wutai, or in the red pine forest
 Unmelt snow covers the roof of the monastery
 and I use my remaining life to nuzzle the vast land
-2024/9/11 8:41:08 2024/9/11 8:41:08
+
+§
+
 太阳重新升起
 我曾在故乡的小山顶上
 目睹过太阳升起的全过程
@@ -6899,7 +7630,9 @@ and I use my remaining life to nuzzle the vast land
 她的头发在燃烧
 她的脸你一生只见过一回
 之后每一次再见都是重现
-我见过黄鹤 2024.9.10去边纹设计.indd 198 我见过黄鹤 2024.9.10去边纹设计.indd 198 198
+
+•
+
 THE SUN RISES AGAIN
 On top of a summit in my hometown I once
 witnessed the whole process of a sunrise
@@ -6920,7 +7653,9 @@ turning back his head to find
 your hair in a blaze
 your face he had seen only once
 and all the later times were mere reappearance
-2024/9/11 8:41:08 2024/9/11 8:41:08
+
+§
+
 花事
 繁忙的季节已经来临
 我这里到处都在开花了
@@ -6934,7 +7669,9 @@ and all the later times were mere reappearance
 而你在海棠花下
 歪着头，捋着一缕缕
 先前被人弄乱的长发
-我见过黄鹤 2024.9.10去边纹设计.indd 199 我见过黄鹤 2024.9.10去边纹设计.indd 199 199
+
+•
+
 FLOWER AFFAIR
 The busy season has arrived
 Flowers bloom everywhere I go
@@ -6948,7 +7685,9 @@ Behind the pear blossoms were peach blossoms
 but you were under the crabapple blossoms
 head tilting, hands twirling strands of
 hair tousled by another hand
-2024/9/11 8:41:08 2024/9/11 8:41:08
+
+§
+
 会笑的人已经不多了
 把别人的孩子抱在自己的怀里
 先把他弄哭了然后
@@ -6965,7 +7704,9 @@ hair tousled by another hand
 抱着哭
 抱住笑
 你能给自己的已经越来越少
-我见过黄鹤 2024.9.10去边纹设计.indd 200 我见过黄鹤 2024.9.10去边纹设计.indd 200 200
+
+•
+
 NOT MANY KNOW HOW TO
 SMILE ANYMORE
 Holding another person’s child in arms
@@ -6984,7 +7725,9 @@ tightly
 to cry
 to laugh
 What you can give yourself is already very little
-2024/9/11 8:41:08 2024/9/11 8:41:08
+
+§
+
 抱树
 三个男孩子合抱一棵银杏
 短缺的部分由一位女孩补上
@@ -7001,7 +7744,9 @@ What you can give yourself is already very little
 每当落叶季到来的时候
 总有人绕树三匝
 希望在树后遇见想见的人
-我见过黄鹤 2024.9.10去边纹设计.indd 201 我见过黄鹤 2024.9.10去边纹设计.indd 201 201
+
+•
+
 HUGGING THE TREE
 Three boys tried to hug a ginkgo
 The last stretch a girl covered for them
@@ -7018,7 +7763,9 @@ of the four under itself
 Whenever the tree started to drop leaves
 someone would walk around it three times
 in hopes of meeting the longed-for
-2024/9/11 8:41:08 2024/9/11 8:41:08
+
+§
+
 在雨天睡觉
 我能把握的幸福已经少之又少
 在雨天睡觉算是一种
@@ -7042,7 +7789,9 @@ in hopes of meeting the longed-for
 我能预感某张亲切的脸
 正从虚掩着的门缝里看我
 却不惊扰我
-我见过黄鹤 2024.9.10去边纹设计.indd 202 我见过黄鹤 2024.9.10去边纹设计.indd 202 202
+
+•
+
 SLEEP ON A RAINY DAY
 The happiness I can assure for myself is already paltry
 Sleeping on a rainy day counts as one kind
@@ -7066,7 +7815,9 @@ This is what you call happiness
 I can feel an amicable face
 is looking at me from the crack of the door
 yet not disturbing me
-2024/9/11 8:41:08 2024/9/11 8:41:08
+
+§
+
 家宴
 酒后才想起
 昨晚是在自家吃的饭
@@ -7079,7 +7830,9 @@ yet not disturbing me
 昨晚我搞反了
 不是繁星宴请了夜空
 而是夜空宴请了繁星
-我见过黄鹤 2024.9.10去边纹设计.indd 203 我见过黄鹤 2024.9.10去边纹设计.indd 203 203
+
+•
+
 FAMILY BANQUET
 After the hangover
 did I realize last evening’s dinner was at my place
@@ -7092,7 +7845,9 @@ First alcohol and then beer
 I did it the reverse order last night
 not the stars invited the night sky
 but the other way around
-2024/9/11 8:41:08 2024/9/11 8:41:08
+
+§
+
 一滴汗珠
 被我格外珍惜的一滴汗珠
 此刻正滚过我的胸口
@@ -7113,7 +7868,9 @@ but the other way around
 他那颗刚刚浮出水面的光头
 河水在不远处闪光
 河流在远处不知去向
-我见过黄鹤 2024.9.10去边纹设计.indd 204 我见过黄鹤 2024.9.10去边纹设计.indd 204 204
+
+•
+
 A DROP OF SWEAT
 A drop of sweat much treasured by me
 is rolling past my chest
@@ -7134,7 +7891,9 @@ The huge scorching sun bakes
 his bare dome that just floated to the water’s surface
 water sparkling nearby
 river disappearing far away
-2024/9/11 8:41:08 2024/9/11 8:41:08
+
+§
+
 钨丝的战栗
 从前的灯泡比现在亮多了
 从前的白日里面塞满了梦境
@@ -7148,7 +7907,9 @@ river disappearing far away
 屏住呼吸倾听电流在体内涌动
 外面的脚步声到了哪儿
 哪里就开始战栗
-我见过黄鹤 2024.9.10去边纹设计.indd 205 我见过黄鹤 2024.9.10去边纹设计.indd 205 205
+
+•
+
 VIBRATION OF THE
 TUNGSTEN FILAMENT
 Light bulbs used to be much brighter
@@ -7164,7 +7925,9 @@ holding my breath to feel electric currents surging
 through my body
 Outside the room wherever the feet moved
 that’s where vibrations took place
-2024/9/11 8:41:08 2024/9/11 8:41:08
+
+§
+
 手机里的菩萨
 从云冈石窟出来
 手机里多出了很多尊菩萨
@@ -7181,7 +7944,9 @@ that’s where vibrations took place
 不谙世事
 以为哭泣就能得到所求
 以为欢笑就能满足所有
-我见过黄鹤 2024.9.10去边纹设计.indd 206 我见过黄鹤 2024.9.10去边纹设计.indd 206 206
+
+•
+
 BODHISATTVA IN MY
 CELLPHONE
 By the time I departed Yungang Grottoes
@@ -7199,7 +7964,9 @@ like the younger me
 ignorant of the world
 he believes crying leads to prayers answered
 and laughter satisfies all there are
-2024/9/11 8:41:08 2024/9/11 8:41:08
+
+§
+
 雪里红
 我喜欢所有来历明确的事物
 来自安徽枞阳的白皮小罗卜
@@ -7218,7 +7985,9 @@ and laughter satisfies all there are
 更像雪里红——像放学归来
 不放书包就直奔厨房
 揭开桌罩的那个小女生
-我见过黄鹤 2024.9.10去边纹设计.indd 207 我见过黄鹤 2024.9.10去边纹设计.indd 207 207
+
+•
+
 MUSTARD GREEN, AKA XUE LI
 HONG
 I like all things of a clear origin
@@ -7240,7 +8009,9 @@ after-school
 girl, satchel still on one shoulder, yet already rushing to
 the kitchen
 to open the food tent cover
-2024/9/11 8:41:08 2024/9/11 8:41:08
+
+§
+
 乌龟之徙
 一只乌龟从雨后的柴垛里
 爬出来，举着可笑的脑袋
@@ -7264,7 +8035,9 @@ to open the food tent cover
 乌龟举着脑袋
 慈祥地看着
 病中的我
-我见过黄鹤 2024.9.10去边纹设计.indd 208 我见过黄鹤 2024.9.10去边纹设计.indd 208 208
+
+•
+
 TURTLE TREK
 After the rain from the firewood pile
 crawls out a turtle, holding its funny head high
@@ -7288,7 +8061,9 @@ The sky was so azure that
 the turtle raised its head
 and looked lovingly
 at me the sick boy
-2024/9/11 8:41:08 2024/9/11 8:41:08
+
+§
+
 自行车的故事
 从前有一位女孩
 总爱坐在自行车的后座上
@@ -7306,7 +8081,9 @@ at me the sick boy
 从后座上来到了前杆上
 插满杜鹃花的自行车队
 静静地擦过了那个春天
-我见过黄鹤 2024.9.10去边纹设计.indd 209 我见过黄鹤 2024.9.10去边纹设计.indd 209 209
+
+•
+
 A BIKE STORY
 Once there was a girl
 who loved to sit on the back of a bike
@@ -7324,7 +8101,9 @@ their bells ringing until the girl
 moved from the back to the front bar
 The bikes bedecked with azaleas
 quietly brushed against that spring
-2024/9/11 8:41:08 2024/9/11 8:41:08
+
+§
+
 210
 天太凉了有点冷
 从北方来的云遇到从南方来的云
@@ -7336,8 +8115,9 @@ quietly brushed against that spring
 我在变幻的云朵下面模拟过
 一切遥远之物的影子
 神秘的不是它们，是我自己
-我见过黄鹤 2024.9.10去边纹设计.indd 210 我见过黄鹤 2024.9.10去边纹设计.indd 210 2024/9/11 8:41:08 2024/9/11 8:41:08
-211
+
+•211
+
 IT’S GETTING COOL OR EVEN COLD
 Clouds from the north met those from the south
 pushing and shoving each other
@@ -7348,8 +8128,9 @@ I hopped from one tree to another
 simulating under the clouds
 shadows of all faraway things
 What’s mysterious was not them, but me
-我见过黄鹤 2024.9.10去边纹设计.indd 211 我见过黄鹤 2024.9.10去边纹设计.indd 211 2024/9/11 8:41:08 2024/9/11 8:41:08
-212
+
+•212
+
 慢动作
 所有的慢动作都好看——
 绿芽慢慢拱出泥土
@@ -7375,8 +8156,9 @@ What’s mysterious was not them, but me
 我下了我的坡道
 我慢慢活成了我，活成了
 你再也不想见到的那一个
-我见过黄鹤 2024.9.10去边纹设计.indd 212 我见过黄鹤 2024.9.10去边纹设计.indd 212 2024/9/11 8:41:08 2024/9/11 8:41:08
-213
+
+•213
+
 SLOW MOTION
 All slow motions look great—
 Green seedlings growing slowly out of soil
@@ -7404,7 +8186,9 @@ and I walked down the slope
 Step by step I’ve lived to become me,
 becoming one
 you never want to meet again
-我见过黄鹤 2024.9.10去边纹设计.indd 213 我见过黄鹤 2024.9.10去边纹设计.indd 213 2024/9/11 8:41:08 2024/9/11 8:41:08
+
+•
+
 清晨的鱼汤
 请过来喝一碗鱼汤
 它由各种鱼混合在一起
@@ -7428,7 +8212,9 @@ you never want to meet again
 好日子如鲠在喉
 请把空碗倒扣
 在我经过的每一条路旁
-我见过黄鹤 2024.9.10去边纹设计.indd 214 我见过黄鹤 2024.9.10去边纹设计.indd 214 214
+
+•
+
 FISH SOUP FOR THE
 MORNING
 Please come to enjoy a bowl of fish soup
@@ -7453,7 +8239,9 @@ the morning mist will disperse
 and good life is at the throat
 Please place your empty bowl upside down
 along all roads I will embark on
-2024/9/11 8:41:08 2024/9/11 8:41:08
+
+§
+
 215
 鸣 谢
 这本书完成离不开很多人的支持和帮助。在此特别感谢我的同事布莱恩• 彼特
@@ -7473,16 +8261,18 @@ along all roads I will embark on
 日中国文学与思想》，2022 年春，第 3 卷 ，1-2 期合刊
 ·  《南瓜诗》首发于《蓝果树季刊》，2022 年第 27 期
 ·  《无主之树》首发于《虎蛾评论》，2022 年 9 月，第 8 期
-我见过黄鹤 2024.9.10去边纹设计.indd 215 我见过黄鹤 2024.9.10去边纹设计.indd 215 2024/9/11 8:41:08 2024/9/11 8:41:08
-216
+
+•216
+
 ·  《万古烧》 《跳出油锅的鱼》 《在蒸锅旁》 《油炸荷花》 和 《花饭》 首发于《译
 丛》， 2022 年春，第 97 期
 ·  《今年的最后一首诗 , 2019》首发于《第 91 条子午线》，2021 年 5 月
 ·  《在一起》首发于《交流》，2021 年 5 月 8 号
 ·  《自行车的故事》于 2021 年 3 月首次刊载于何跃敏和李红主持的一个微信
 公众号
-我见过黄鹤 2024.9.10去边纹设计.indd 216 我见过黄鹤 2024.9.10去边纹设计.indd 216 2024/9/11 8:41:08 2024/9/11 8:41:08
-217
+
+•217
+
 ACKNOWLEDGEMENTS
 This poetry translation book would not have been possible without the help
 of many. Special thanks to my colleague and English professor Bryan L. Peters for
@@ -7508,8 +8298,9 @@ and “An Ant Ventured Out” in The Dodge (April 15, 2024)
  “If the Root Could Speak,” “The Holly Tree,” and “Eggplant” in Copper
 Nickel 36 (2023)
 
-我见过黄鹤 2024.9.10去边纹设计.indd 217 我见过黄鹤 2024.9.10去边纹设计.indd 217 2024/9/11 8:41:08 2024/9/11 8:41:08
-218
+
+•218
+
 ·
 ·
 ·
@@ -7529,8 +8320,9 @@ Steamer,” “Fried Lotus Flowers,” and “Fried Rice” in Renditions 97 (Sp
  “Together” in Exchanges (May 8, 2021)
  “A Bike Story” was shared on an online post hosted by He Yuemin and Li
 Hong (March 19, 2021)
-我见过黄鹤 2024.9.10去边纹设计.indd 218 我见过黄鹤 2024.9.10去边纹设计.indd 218 2024/9/11 8:41:08 2024/9/11 8:41:08
-219
+
+•219
+
 BIBLIOGRAPHY
 Barash, David P. Buddhist Biology: Ancient Eastern Wisdom Meets Modern Western Science.
 Oxford: Oxford University Press, 2013.
@@ -7545,8 +8337,9 @@ Yellow Crane Tower. Wuhan: Changjiang Literature
 and Art Publishing House, 2022. pp. 271-308.
 –-. “Poets’ Music Register” (“Shirenmen de yinqu”). Shi shouhuo (Poetry Harvest),
 Summer 2022, pp. 244-250.
-我见过黄鹤 2024.9.10去边纹设计.indd 219 我见过黄鹤 2024.9.10去边纹设计.indd 219 2024/9/11 8:41:08 2024/9/11 8:41:08
-220
+
+•220
+
 后 记
 翻译诗人张执浩的作品缘起于六年前，那时我和一位朋友已经翻译《诗经》多
 年。我们每周翻译一首，然后互相对比、交流、提高。 译了几十首《国风》和《小雅》
@@ -7567,8 +8360,9 @@ Summer 2022, pp. 244-250.
 平易又有诗意， 貌似容易， 实则需要很强的对生活和语言的敏感， 知识消化、
 储存和转换的技巧，洞察宇宙和人世宽阔的悟性，以及天赋和对诗歌这个“大家
 伙” （张执浩）的执念。作为译者，我尽量做一个忠实的 “双胞胎”（格雷戈里·帕
-我见过黄鹤 2024.9.10去边纹设计.indd 220 我见过黄鹤 2024.9.10去边纹设计.indd 220 2024/9/11 8:41:08 2024/9/11 8:41:08
-221
+
+•221
+
 尔德罗 / Gregory Pardlo），全面体现原作各方面的魅力， 包括其语境、内涵外延、
 句式措词、修辞、音乐性等等。同时我坚信好的诗歌翻译本身也是独立的艺术创
 作，既能保持原作的精髓光华，又能反映移入语言和文化的特点、习惯、和接受
@@ -7577,7 +8371,9 @@ Summer 2022, pp. 244-250.
 居，演绎新的生命过程，且为之敞开心扉，这本书就实现了初衷。
 何跃敏
 2024 年 7 月
-我见过黄鹤 2024.9.10去边纹设计.indd 221 我见过黄鹤 2024.9.10去边纹设计.indd 221 2024/9/11 8:41:08 2024/9/11 8:41:08
+
+•
+
 图书在版编目（CIP）数据
 我见过黄鹤 : 汉、英 / 张执浩著. -- 北京 : 外文
 出版社 , 2024. 9. -- ISBN 978-7-119-14025-4
@@ -7610,4 +8406,5 @@ Summer 2022, pp. 244-250.
 书 号： ISBN 978-7-119-14025-4
 定 价： 98.00 元
 版权所有 侵权必究 如有印装问题本社负责调换（电话： 008610-68329904）
-我见过黄鹤 2024.9.10去边纹设计.indd 222 我见过黄鹤 2024.9.10去边纹设计.indd 222 2024/9/11 8:41:08 2024/9/11 8:41:08
+
+•
