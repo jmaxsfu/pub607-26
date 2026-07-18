@@ -15,7 +15,7 @@ A simple regex to remove linebreaks, leaving us with regular paragraphs.
 But you have to do it bit by bit, because there are probably sections in which you want to keep the linebreaks -- like poetry!
 
 
-    search: (\S)\n([^ ]) 
+    search: (\S)\n([^\s]) 
     replace: \1 \2
 
  is better, but if any poetry is flush-left, it will unbreak thost lines. which is what we 

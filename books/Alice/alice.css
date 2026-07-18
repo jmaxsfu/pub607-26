@@ -57,13 +57,16 @@ a.footnote-ref {
   line-height: 0;
 }
 
-/*ebook fixes*/
-
-#contents-of-the-first-volume p { margin-top:1em; text-indent: 0; }
-#frontmatter p { margin-top:1em; text-indent: 0; }
+hr {color: white; border: 0; margin: 1em;}
 
 #verse {
 	font-style: italic;
 	color: green;
 	margin: 1.5em;
 }
+
+/*ebook fixes*/
+
+#contents-of-the-first-volume p { margin-top:1em; text-indent: 0; }
+#frontmatter p { margin-top:1em; text-indent: 0; }
+
