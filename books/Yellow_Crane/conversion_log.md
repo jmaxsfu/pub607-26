@@ -97,7 +97,61 @@ The same attempt to do H2s, but I don't know what I'm reading!
 This time instead of "replace all" I went through and looked at each one before I pressed "replace"
 
 
-
 # 12) Editing poetry!
 
 Put in ### third-level heads for numbers in long poem "CREED"
+
+# 13) Adding document structure
+
+IN order to have the two languages facing, we need to identify the parts, and how they relate to each. So I set in three sets of labels:
+
+:::{.pair}
+
+:::{.poem .chinese}
+
+:::{.poem .english}
+
+This results in the following HTML for each pair of poems:
+
+<div class="pair">
+	<section class="poem chinese">
+		<h2> ... </h2>
+			...
+  </section>
+	<section class="poem english">
+		<h2> ... </h2>
+			...
+  </section>
+</div>
+
+(the same markdown ::: becomes a div when there is no heading, and becomes a section when there is a heading -- the heading provides the sections "id". A div is anonymous.)
+
+Then in the CSS, we say
+
+div.pair {
+  columns: 2;
+  break-before: always;
+}
+
+That makes the pair into a thing with 2 columns, and that should always begin on a new page. Then within that, we ask that we don't break to a new column within the poem.
+
+section.poem {
+		break-inside: avoid;
+}
+
+It works in HTML (in web browser, except there are no pages there). It works in Thorium Reader (EPUB, with pages, and with a variable width screen). It does not work in the ereader app on my phone; here it makes each poem (a single column) into each page.
+
+# 14) Images
+
+I added the line-art images from the Chapter starts, and attempted to position the images properly with respect to the heading text. 
+
+Here it might be possible to do this on a web page, but the constraints of an e-reader app or device make it very tricky to do this positioning. An alterntive might be to create a single image that contains the text of the title as well -- and then to make the actual first-level heading (which gets used to ebook navigation) inconspicuous.
+
+
+
+
+
+
+
+
+
