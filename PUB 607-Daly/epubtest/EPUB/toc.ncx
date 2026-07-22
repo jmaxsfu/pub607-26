@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="EBook#8492" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>The King in Yellow</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-0">
+      <navLabel>
+        <text>The King in Yellow</text>
+      </navLabel>
+      <content src="text/title_page.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-1">
+      <navLabel>
+        <text>THE KING IN YELLOW</text>
+      </navLabel>
+      <content src="text/ch001.xhtml#the-king-in-yellow" />
+    </navPoint>
+    <navPoint id="navPoint-2">
+      <navLabel>
+        <text>THE KING IN YELLOW</text>
+      </navLabel>
+      <content src="text/ch002.xhtml#the-king-in-yellow-1" />
+    </navPoint>
+    <navPoint id="navPoint-3">
+      <navLabel>
+        <text>THE REPAIRER OF REPUTATIONS</text>
+      </navLabel>
+      <content src="text/ch003.xhtml#the-repairer-of-reputations" />
+      <navPoint id="navPoint-4">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="text/ch003.xhtml#i" />
+      </navPoint>
+      <navPoint id="navPoint-5">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="text/ch003.xhtml#ii" />
+      </navPoint>
+      <navPoint id="navPoint-6">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="text/ch003.xhtml#iii" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-7">
+      <navLabel>
+        <text>THE MASK</text>
+      </navLabel>
+      <content src="text/ch004.xhtml#the-mask" />
+      <navPoint id="navPoint-8">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="text/ch004.xhtml#i-1" />
+      </navPoint>
+      <navPoint id="navPoint-9">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="text/ch004.xhtml#ii-1" />
+      </navPoint>
+      <navPoint id="navPoint-10">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="text/ch004.xhtml#iii-1" />
+      </navPoint>
+      <navPoint id="navPoint-11">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="text/ch004.xhtml#iv" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-12">
+      <navLabel>
+        <text>IN THE COURT OF THE DRAGON</text>
+      </navLabel>
+      <content src="text/ch005.xhtml#in-the-court-of-the-dragon" />
+    </navPoint>
+    <navPoint id="navPoint-13">
+      <navLabel>
+        <text>THE YELLOW SIGN</text>
+      </navLabel>
+      <content src="text/ch006.xhtml#the-yellow-sign" />
+      <navPoint id="navPoint-14">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="text/ch006.xhtml#i-2" />
+      </navPoint>
+      <navPoint id="navPoint-15">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="text/ch006.xhtml#ii-2" />
+      </navPoint>
+      <navPoint id="navPoint-16">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="text/ch006.xhtml#iii-2" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-17">
+      <navLabel>
+        <text>THE DEMOISELLE D’YS</text>
+      </navLabel>
+      <content src="text/ch007.xhtml#the-demoiselle-dys" />
+      <navPoint id="navPoint-18">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="text/ch007.xhtml#i-3" />
+      </navPoint>
+      <navPoint id="navPoint-19">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="text/ch007.xhtml#ii-3" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-20">
+      <navLabel>
+        <text>THE PROPHETS’ PARADISE</text>
+      </navLabel>
+      <content src="text/ch008.xhtml#the-prophets-paradise" />
+      <navPoint id="navPoint-21">
+        <navLabel>
+          <text>THE STUDIO</text>
+        </navLabel>
+        <content src="text/ch008.xhtml#the-studio" />
+      </navPoint>
+      <navPoint id="navPoint-22">
+        <navLabel>
+          <text>THE PHANTOM</text>
+        </navLabel>
+        <content src="text/ch008.xhtml#the-phantom" />
+      </navPoint>
+      <navPoint id="navPoint-23">
+        <navLabel>
+          <text>THE SACRIFICE</text>
+        </navLabel>
+        <content src="text/ch008.xhtml#the-sacrifice" />
+      </navPoint>
+      <navPoint id="navPoint-24">
+        <navLabel>
+          <text>DESTINY</text>
+        </navLabel>
+        <content src="text/ch008.xhtml#destiny" />
+      </navPoint>
+      <navPoint id="navPoint-25">
+        <navLabel>
+          <text>THE THRONG</text>
+        </navLabel>
+        <content src="text/ch008.xhtml#the-throng" />
+      </navPoint>
+      <navPoint id="navPoint-26">
+        <navLabel>
+          <text>THE JESTER</text>
+        </navLabel>
+        <content src="text/ch008.xhtml#the-jester" />
+      </navPoint>
+      <navPoint id="navPoint-27">
+        <navLabel>
+          <text>THE GREEN ROOM</text>
+        </navLabel>
+        <content src="text/ch008.xhtml#the-green-room" />
+      </navPoint>
+      <navPoint id="navPoint-28">
+        <navLabel>
+          <text>THE LOVE TEST</text>
+        </navLabel>
+        <content src="text/ch008.xhtml#the-love-test" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-29">
+      <navLabel>
+        <text>THE STREET OF THE FOUR WINDS</text>
+      </navLabel>
+      <content src="text/ch009.xhtml#the-street-of-the-four-winds" />
+      <navPoint id="navPoint-30">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="text/ch009.xhtml#i-4" />
+      </navPoint>
+      <navPoint id="navPoint-31">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="text/ch009.xhtml#ii-4" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-32">
+      <navLabel>
+        <text>THE STREET OF THE FIRST SHELL</text>
+      </navLabel>
+      <content src="text/ch010.xhtml#the-street-of-the-first-shell" />
+      <navPoint id="navPoint-33">
+        <navLabel>
+          <text>I.</text>
+        </navLabel>
+        <content src="text/ch010.xhtml#i." />
+      </navPoint>
+      <navPoint id="navPoint-34">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="text/ch010.xhtml#ii-5" />
+      </navPoint>
+      <navPoint id="navPoint-35">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="text/ch010.xhtml#iii-3" />
+      </navPoint>
+      <navPoint id="navPoint-36">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="text/ch010.xhtml#iv-1" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-37">
+      <navLabel>
+        <text>THE STREET OF OUR LADY OF THE FIELDS</text>
+      </navLabel>
+      <content src="text/ch011.xhtml#the-street-of-our-lady-of-the-fields" />
+      <navPoint id="navPoint-38">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="text/ch011.xhtml#i-5" />
+      </navPoint>
+      <navPoint id="navPoint-39">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="text/ch011.xhtml#ii-6" />
+      </navPoint>
+      <navPoint id="navPoint-40">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="text/ch011.xhtml#iii-4" />
+      </navPoint>
+      <navPoint id="navPoint-41">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="text/ch011.xhtml#iv-2" />
+      </navPoint>
+      <navPoint id="navPoint-42">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="text/ch011.xhtml#v" />
+      </navPoint>
+      <navPoint id="navPoint-43">
+        <navLabel>
+          <text>VI</text>
+        </navLabel>
+        <content src="text/ch011.xhtml#vi" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-44">
+      <navLabel>
+        <text>RUE BARRÉE</text>
+      </navLabel>
+      <content src="text/ch012.xhtml#rue-barrée" />
+      <navPoint id="navPoint-45">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="text/ch012.xhtml#i-6" />
+      </navPoint>
+      <navPoint id="navPoint-46">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="text/ch012.xhtml#ii-7" />
+      </navPoint>
+      <navPoint id="navPoint-47">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="text/ch012.xhtml#iii-5" />
+      </navPoint>
+      <navPoint id="navPoint-48">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="text/ch012.xhtml#iv-3" />
+      </navPoint>
+      <navPoint id="navPoint-49">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="text/ch012.xhtml#v-1" />
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

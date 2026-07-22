@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" xml:lang="en-US" unique-identifier="epub-id-1" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="epub-id-1">EBook#8492</dc:identifier>
+    <meta refines="#epub-id-1" property="identifier-type" scheme="onix:codelist5">01</meta>
+    <dc:title id="epub-title-1">The King in Yellow</dc:title>
+    <meta refines="#epub-title-1" property="title-type">main</meta>
+    <dc:date id="epub-date">2005-07-01</dc:date>
+    <dc:language>en-US</dc:language>
+    <dc:creator id="epub-creator-1">Robert W. Chambers</dc:creator>
+    <meta refines="#epub-creator-1" property="role" scheme="marc:relators">aut</meta>
+    <dc:contributor id="epub-contributor-1">Suzanne Shell</dc:contributor>
+    <meta refines="#epub-contributor-1" property="role" scheme="marc:relators">pro</meta>
+    <dc:contributor id="epub-contributor-2">Beth Trapaga</dc:contributor>
+    <meta refines="#epub-contributor-2" property="role" scheme="marc:relators">pro</meta>
+    <dc:contributor id="epub-contributor-3">Charles Franks</dc:contributor>
+    <meta refines="#epub-contributor-3" property="role" scheme="marc:relators">pro</meta>
+    <dc:contributor id="epub-contributor-4">Online Distributed Proofreading Team at http://www.pgdp.net</dc:contributor>
+    <meta refines="#epub-contributor-4" property="role" scheme="marc:relators">edt</meta>
+    <dc:publisher>Project Gutenberg</dc:publisher>
+    <dc:rights>Project Gutenberg License; see http://www.gutenberg.net</dc:rights>
+    <meta property="dcterms:modified">2026-07-22T17:13:29Z</meta>
+    <meta property="schema:accessMode">textual</meta>
+    <meta property="schema:accessModeSufficient">textual</meta>
+    <meta property="schema:accessibilityFeature">alternativeText</meta>
+    <meta property="schema:accessibilityFeature">tableOfContents</meta>
+    <meta property="schema:accessibilityFeature">displayTransformability</meta>
+    <meta property="schema:accessibilityHazard">none</meta>
+    <meta property="schema:accessibilitySummary">Alt text, table of contents, semantic markup.</meta>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+    <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav" />
+    <item id="stylesheet1" href="styles/stylesheet1.css" media-type="text/css" />
+    <item id="title_page_xhtml" href="text/title_page.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch001_xhtml" href="text/ch001.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch002_xhtml" href="text/ch002.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch003_xhtml" href="text/ch003.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch004_xhtml" href="text/ch004.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch005_xhtml" href="text/ch005.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch006_xhtml" href="text/ch006.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch007_xhtml" href="text/ch007.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch008_xhtml" href="text/ch008.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch009_xhtml" href="text/ch009.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch010_xhtml" href="text/ch010.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch011_xhtml" href="text/ch011.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch012_xhtml" href="text/ch012.xhtml" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="title_page_xhtml" linear="yes" />
+    <itemref idref="ch001_xhtml" />
+    <itemref idref="ch002_xhtml" />
+    <itemref idref="ch003_xhtml" />
+    <itemref idref="ch004_xhtml" />
+    <itemref idref="ch005_xhtml" />
+    <itemref idref="ch006_xhtml" />
+    <itemref idref="ch007_xhtml" />
+    <itemref idref="ch008_xhtml" />
+    <itemref idref="ch009_xhtml" />
+    <itemref idref="ch010_xhtml" />
+    <itemref idref="ch011_xhtml" />
+    <itemref idref="ch012_xhtml" />
+  </spine>
+  <guide>
+    <reference type="toc" title="The King in Yellow" href="nav.xhtml" />
+  </guide>
+</package>

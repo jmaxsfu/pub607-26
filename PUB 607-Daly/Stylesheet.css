@@ -1,0 +1,65 @@
+body {
+	margin: auto;
+	max-width: 39em;
+	font-family: Georgia;
+}
+
+p {
+	margin-top: 1em;
+	margin-bottom: 0;
+	font-size: 14pt;
+	line-height: 20pt;
+	text-align: justify;
+	hyphens: auto;
+}
+
+p + p {
+	margin: 0;
+	text-indent: 1.5em;
+}
+
+div.sign + p {
+	margin-top: 1em;
+	text-indent: 1.5em;
+}
+
+div.quote + p {
+	margin-top: 1em;
+	text-indent: 1.5em;
+}
+
+div.epigraph {
+	text-align: center; margin: 1em;
+	font-style: italic;
+    color: green;
+}
+
+div.poem {
+	color: purple;
+}
+
+div.sign p { 
+	text-align: center;
+	border: 1pt black solid;
+	padding: 1em;
+	break-before: avoid-column;
+	column-break-before: avoid;
+}
+
+div.quote p{
+	font-size: 14pt;
+	text-align: center; margin: 1em;
+}
+
+h2 {
+	text-align: center;
+	margin-top: 5em;
+	margin-bottom: 2em;
+	break-before: column;
+}
+
+section.level3 {
+	break-before: column;
+
+}
+
