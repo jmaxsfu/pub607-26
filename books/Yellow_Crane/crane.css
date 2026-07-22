@@ -1,7 +1,7 @@
 body {
-  margin: 3em;
-  font-family: helvetica;
-  font-size: 12pt;
+  /*margin: 3em;*/
+  font-family: Palatino;
+  /*font-size: 12pt;*/
 }
 
 section.level1 {
@@ -9,8 +9,18 @@ section.level1 {
 }
 
 h1 {
+	font-size: 125%;
+	margin-top: 2em;
+}
+h1.ch {
+	font-size: 125%;
 	margin-top: 300px;
 }
+
+h1.title {
+  font-size: 175%;
+}
+
 
 img {
 	width: 400px;
@@ -20,32 +30,31 @@ img {
 	z-index: -1;
 }
 
-h1.invis {
-  color: #ffeeee;
-	/*visibility: hidden;*/
-}
 
 /* Poem layout */
 
 div.pair {
-	  columns: 2;
-	  margin-top: 3em;
-	  /*border-top: 1px black solid;*/
-	  break-before: always;
+	  columns: 1;
+	  column-break-before: always;
+	  break-before: column;
 }
 
 section.poem h2 {
-	font-size: 13pt;
-  margin-top: 0.5em; margin-bottom: 0em;
+  font-size: 110%; 
+   margin-top: 0em; margin-bottom: 0em;
   height: 3em;
 }
 
 
 
 section.poem {
-	line-height: 18pt;
+	line-height: 1.25em;
 	break-inside: avoid;
-	border: 1px white solid; /* WHY IS THIS NECESSARY FOR H2 to WORK? */
+	/*border: 1px white solid; /* WHY IS THIS NECESSARY FOR H2 to WORK? */*/
+	break-after: always;
+	column-break-after: always;
+	page-break-after: always ;	
+	margin-bottom: 3em;
 }
 
 section.chinese {
@@ -61,6 +70,6 @@ div.line-block {
 
 
 p {
-	font-size: 14pt;
-	line-height: 18pt;
+	/*font-size: 14pt;*/
+	line-height: 1.35em;
 }
