@@ -36,10 +36,17 @@ h1, h2, h3 {
 h1 {font-size: 1.4em;}
 h1 {border-bottom: 1px grey solid;}
 
-section.mixed {
+.mixed {
 	font-family: Helvetica;
 	color: green;
+}
 
+.differentAgain {
+	color: red;
+}
+
+.makeityellow {
+  color: yellow;
 }
 
 h2 {font-size: 1.15em;}
