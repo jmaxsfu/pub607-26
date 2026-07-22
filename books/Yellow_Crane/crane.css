@@ -31,7 +31,10 @@ div.pair {
 	  columns: 2;
 	  margin-top: 3em;
 	  /*border-top: 1px black solid;*/
-	  break-before: always;
+	  column-break-before: always;
+	  page-break-before: always;
+	  break-before: page;
+	  break-before: column;
 }
 
 section.poem h2 {
@@ -46,6 +49,9 @@ section.poem {
 	line-height: 18pt;
 	break-inside: avoid;
 	border: 1px white solid; /* WHY IS THIS NECESSARY FOR H2 to WORK? */
+	break-after: always;
+	column-break-after: always;
+	page-break-after: always;
 }
 
 section.chinese {
